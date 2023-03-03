@@ -25,3 +25,5 @@ for step, data in enumerate(loader):
     print('=======')
     print(f'Number of graphs in the current batch: {data.num_graphs}')
     print(data)
+    print(data.batch.shape)
+    print(data.ptr)

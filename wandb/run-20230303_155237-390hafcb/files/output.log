@@ -1,0 +1,6 @@
+Step 1:
+=======
+Number of graphs in the current batch: 16
+DataBatch(x=[2543, 3], edge_index=[2, 244378], edge_attr=[244378, 256], y=[16], node_attr=[2543, 256], batch=[2543], ptr=[17])
+batch torch.Size([2543])
+tensor([ 0,  0,  0,  ..., 15, 15, 15], device='cuda:0')

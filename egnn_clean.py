@@ -87,6 +87,11 @@ class E_GCL(nn.Module):
 
     def coord2radial(self, edge_index, coord):
         row, col = edge_index
+        print('IN COORD MODEL')
+        print(row.shape, col.shape)
+        print(row)
+        print(col)
+        print(coord.shape)
         coord_diff = coord[row] - coord[col]
         radial = torch.sum(coord_diff**2, 1).unsqueeze(1)
 
@@ -99,6 +104,9 @@ class E_GCL(nn.Module):
     def forward(self, h, edge_index, coord, edge_attr=None, node_attr=None):
         row, col = edge_index
         radial, coord_diff = self.coord2radial(edge_index, coord)
+
+        print('in coord to radial forward')
+        print(h.shape)
 
         edge_feat = self.edge_model(h[row], h[col], radial, edge_attr)
         coord = self.coord_model(coord, edge_index, coord_diff, edge_feat)

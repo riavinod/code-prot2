@@ -1,0 +1,24 @@
+
+getting edges...
+batched edges torch.Size([158400, 256])
+Step 1:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[111, 3], edge_index=[2, 6105], edge_attr=[6105, 256], y=[1], node_attr=[111, 256], batch=[111], ptr=[2])
+getting edges...
+batched edges torch.Size([158400, 256])
+Traceback (most recent call last):
+  File "main2.py", line 152, in <module>
+  File "main2.py", line 106, in train
+    mlp.to(device)
+  File "/users/rvinod/.local/lib/python3.7/site-packages/torch/nn/modules/module.py", line 927, in to
+    return self._apply(convert)
+  File "/users/rvinod/.local/lib/python3.7/site-packages/torch/nn/modules/module.py", line 579, in _apply
+    module._apply(fn)
+  File "/users/rvinod/.local/lib/python3.7/site-packages/torch/nn/modules/module.py", line 602, in _apply
+    param_applied = fn(param)
+  File "/users/rvinod/.local/lib/python3.7/site-packages/torch/nn/modules/module.py", line 925, in convert
+    return t.to(device, dtype if t.is_floating_point() or t.is_complex() else None, non_blocking)
+RuntimeError: CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call,so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1.

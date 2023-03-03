@@ -1,0 +1,1839 @@
+Step 1:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[111, 3], edge_index=[2, 6105], edge_attr=[6105, 256], y=[1], node_attr=[111, 256], batch=[111], ptr=[2])
+getting edges...
+Loss:  1.0862102508544922
+Step 2:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[360, 3], edge_index=[2, 64620], edge_attr=[64620, 256], y=[1], node_attr=[360, 256], batch=[360], ptr=[2])
+getting edges...
+Loss:  8.028502464294434
+Step 3:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[195, 3], edge_index=[2, 18915], edge_attr=[18915, 256], y=[1], node_attr=[195, 256], batch=[195], ptr=[2])
+getting edges...
+Loss:  6.7268218994140625
+Step 4:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[45, 3], edge_index=[2, 990], edge_attr=[990, 256], y=[1], node_attr=[45, 256], batch=[45], ptr=[2])
+getting edges...
+Loss:  0.43081483244895935
+Step 5:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[126, 3], edge_index=[2, 7875], edge_attr=[7875, 256], y=[1], node_attr=[126, 256], batch=[126], ptr=[2])
+getting edges...
+Loss:  2.7976653575897217
+Step 6:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[215, 3], edge_index=[2, 23005], edge_attr=[23005, 256], y=[1], node_attr=[215, 256], batch=[215], ptr=[2])
+getting edges...
+Loss:  17.528047561645508
+Step 7:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[136, 3], edge_index=[2, 9180], edge_attr=[9180, 256], y=[1], node_attr=[136, 256], batch=[136], ptr=[2])
+getting edges...
+Loss:  2.552947998046875
+Step 8:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[193, 3], edge_index=[2, 18528], edge_attr=[18528, 256], y=[1], node_attr=[193, 256], batch=[193], ptr=[2])
+getting edges...
+Loss:  14.13171672821045
+Step 9:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[124, 3], edge_index=[2, 7626], edge_attr=[7626, 256], y=[1], node_attr=[124, 256], batch=[124], ptr=[2])
+getting edges...
+Loss:  2.4449398517608643
+Step 10:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[254, 3], edge_index=[2, 32131], edge_attr=[32131, 256], y=[1], node_attr=[254, 256], batch=[254], ptr=[2])
+getting edges...
+Loss:  42.31822967529297
+Step 11:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[133, 3], edge_index=[2, 8778], edge_attr=[8778, 256], y=[1], node_attr=[133, 256], batch=[133], ptr=[2])
+getting edges...
+Loss:  2.329376220703125
+Step 12:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[169, 3], edge_index=[2, 14196], edge_attr=[14196, 256], y=[1], node_attr=[169, 256], batch=[169], ptr=[2])
+getting edges...
+Loss:  3.254164218902588
+Step 13:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[60, 3], edge_index=[2, 1770], edge_attr=[1770, 256], y=[1], node_attr=[60, 256], batch=[60], ptr=[2])
+getting edges...
+Loss:  0.6860369443893433
+Step 14:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[134, 3], edge_index=[2, 8911], edge_attr=[8911, 256], y=[1], node_attr=[134, 256], batch=[134], ptr=[2])
+getting edges...
+Loss:  2.646527051925659
+Step 15:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[178, 3], edge_index=[2, 15753], edge_attr=[15753, 256], y=[1], node_attr=[178, 256], batch=[178], ptr=[2])
+getting edges...
+Loss:  1.0857347249984741
+Step 16:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[110, 3], edge_index=[2, 5995], edge_attr=[5995, 256], y=[1], node_attr=[110, 256], batch=[110], ptr=[2])
+getting edges...
+Loss:  1.759655475616455
+Step 17:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[213, 3], edge_index=[2, 22578], edge_attr=[22578, 256], y=[1], node_attr=[213, 256], batch=[213], ptr=[2])
+getting edges...
+Loss:  8.733381271362305
+Step 18:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[69, 3], edge_index=[2, 2346], edge_attr=[2346, 256], y=[1], node_attr=[69, 256], batch=[69], ptr=[2])
+getting edges...
+Loss:  2.2185256481170654
+Step 19:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[295, 3], edge_index=[2, 43365], edge_attr=[43365, 256], y=[1], node_attr=[295, 256], batch=[295], ptr=[2])
+getting edges...
+Loss:  5.211658477783203
+Step 20:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[222, 3], edge_index=[2, 24531], edge_attr=[24531, 256], y=[1], node_attr=[222, 256], batch=[222], ptr=[2])
+getting edges...
+Loss:  2.199740171432495
+Step 21:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[76, 3], edge_index=[2, 2850], edge_attr=[2850, 256], y=[1], node_attr=[76, 256], batch=[76], ptr=[2])
+getting edges...
+Loss:  5.127187252044678
+Step 22:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[296, 3], edge_index=[2, 43660], edge_attr=[43660, 256], y=[1], node_attr=[296, 256], batch=[296], ptr=[2])
+getting edges...
+Loss:  36.52238082885742
+Step 23:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[130, 3], edge_index=[2, 8385], edge_attr=[8385, 256], y=[1], node_attr=[130, 256], batch=[130], ptr=[2])
+getting edges...
+Loss:  0.24288904666900635
+Step 24:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[123, 3], edge_index=[2, 7503], edge_attr=[7503, 256], y=[1], node_attr=[123, 256], batch=[123], ptr=[2])
+getting edges...
+Loss:  0.12504319846630096
+Step 25:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[100, 3], edge_index=[2, 4950], edge_attr=[4950, 256], y=[1], node_attr=[100, 256], batch=[100], ptr=[2])
+getting edges...
+Loss:  0.5783320665359497
+Step 26:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[80, 3], edge_index=[2, 3160], edge_attr=[3160, 256], y=[1], node_attr=[80, 256], batch=[80], ptr=[2])
+getting edges...
+Loss:  4.719378471374512
+Step 27:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[364, 3], edge_index=[2, 66066], edge_attr=[66066, 256], y=[1], node_attr=[364, 256], batch=[364], ptr=[2])
+getting edges...
+Loss:  5.815478324890137
+Step 28:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[158, 3], edge_index=[2, 12403], edge_attr=[12403, 256], y=[1], node_attr=[158, 256], batch=[158], ptr=[2])
+getting edges...
+Loss:  0.6429855227470398
+Step 29:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[87, 3], edge_index=[2, 3741], edge_attr=[3741, 256], y=[1], node_attr=[87, 256], batch=[87], ptr=[2])
+getting edges...
+Loss:  1.6540511846542358
+Step 30:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[236, 3], edge_index=[2, 27730], edge_attr=[27730, 256], y=[1], node_attr=[236, 256], batch=[236], ptr=[2])
+getting edges...
+Loss:  3.4620304107666016
+Step 31:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[84, 3], edge_index=[2, 3486], edge_attr=[3486, 256], y=[1], node_attr=[84, 256], batch=[84], ptr=[2])
+getting edges...
+Loss:  0.30143943428993225
+Step 32:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[155, 3], edge_index=[2, 11935], edge_attr=[11935, 256], y=[1], node_attr=[155, 256], batch=[155], ptr=[2])
+getting edges...
+Loss:  0.2612479627132416
+Step 33:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[146, 3], edge_index=[2, 10585], edge_attr=[10585, 256], y=[1], node_attr=[146, 256], batch=[146], ptr=[2])
+getting edges...
+Loss:  0.1961110234260559
+Step 34:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[45, 3], edge_index=[2, 990], edge_attr=[990, 256], y=[1], node_attr=[45, 256], batch=[45], ptr=[2])
+getting edges...
+Loss:  0.24201451241970062
+Step 35:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[388, 3], edge_index=[2, 75078], edge_attr=[75078, 256], y=[1], node_attr=[388, 256], batch=[388], ptr=[2])
+getting edges...
+Loss:  5.9723615646362305
+Step 36:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[262, 3], edge_index=[2, 34191], edge_attr=[34191, 256], y=[1], node_attr=[262, 256], batch=[262], ptr=[2])
+getting edges...
+Loss:  4.808341026306152
+Step 37:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[139, 3], edge_index=[2, 9591], edge_attr=[9591, 256], y=[1], node_attr=[139, 256], batch=[139], ptr=[2])
+getting edges...
+Loss:  0.3473691940307617
+Step 38:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[106, 3], edge_index=[2, 5565], edge_attr=[5565, 256], y=[1], node_attr=[106, 256], batch=[106], ptr=[2])
+getting edges...
+Loss:  1.0926990509033203
+Step 39:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[134, 3], edge_index=[2, 8911], edge_attr=[8911, 256], y=[1], node_attr=[134, 256], batch=[134], ptr=[2])
+getting edges...
+Loss:  0.12846940755844116
+Step 40:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[154, 3], edge_index=[2, 11781], edge_attr=[11781, 256], y=[1], node_attr=[154, 256], batch=[154], ptr=[2])
+getting edges...
+Loss:  0.8455804586410522
+Step 41:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[166, 3], edge_index=[2, 13695], edge_attr=[13695, 256], y=[1], node_attr=[166, 256], batch=[166], ptr=[2])
+getting edges...
+Loss:  2.1160600185394287
+Step 42:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[323, 3], edge_index=[2, 52003], edge_attr=[52003, 256], y=[1], node_attr=[323, 256], batch=[323], ptr=[2])
+getting edges...
+Loss:  0.9577741622924805
+Step 43:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[70, 3], edge_index=[2, 2415], edge_attr=[2415, 256], y=[1], node_attr=[70, 256], batch=[70], ptr=[2])
+getting edges...
+Loss:  0.15078651905059814
+Step 44:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[104, 3], edge_index=[2, 5356], edge_attr=[5356, 256], y=[1], node_attr=[104, 256], batch=[104], ptr=[2])
+getting edges...
+Loss:  0.1046038419008255
+Step 45:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[65, 3], edge_index=[2, 2080], edge_attr=[2080, 256], y=[1], node_attr=[65, 256], batch=[65], ptr=[2])
+getting edges...
+Loss:  2.307023286819458
+Step 46:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[110, 3], edge_index=[2, 5995], edge_attr=[5995, 256], y=[1], node_attr=[110, 256], batch=[110], ptr=[2])
+getting edges...
+Loss:  1.3038393259048462
+Step 47:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[72, 3], edge_index=[2, 2556], edge_attr=[2556, 256], y=[1], node_attr=[72, 256], batch=[72], ptr=[2])
+getting edges...
+Loss:  0.3435266315937042
+Step 48:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[208, 3], edge_index=[2, 21528], edge_attr=[21528, 256], y=[1], node_attr=[208, 256], batch=[208], ptr=[2])
+getting edges...
+Loss:  4.288116455078125
+Step 49:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[128, 3], edge_index=[2, 8128], edge_attr=[8128, 256], y=[1], node_attr=[128, 256], batch=[128], ptr=[2])
+getting edges...
+Loss:  0.4784203767776489
+Step 50:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[92, 3], edge_index=[2, 4186], edge_attr=[4186, 256], y=[1], node_attr=[92, 256], batch=[92], ptr=[2])
+getting edges...
+Loss:  1.2075183391571045
+Step 51:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[199, 3], edge_index=[2, 19701], edge_attr=[19701, 256], y=[1], node_attr=[199, 256], batch=[199], ptr=[2])
+getting edges...
+Loss:  3.870185136795044
+Step 52:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[104, 3], edge_index=[2, 5356], edge_attr=[5356, 256], y=[1], node_attr=[104, 256], batch=[104], ptr=[2])
+getting edges...
+Loss:  0.9764595627784729
+Step 53:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[101, 3], edge_index=[2, 5050], edge_attr=[5050, 256], y=[1], node_attr=[101, 256], batch=[101], ptr=[2])
+getting edges...
+Loss:  0.1748388260602951
+Step 54:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[236, 3], edge_index=[2, 27730], edge_attr=[27730, 256], y=[1], node_attr=[236, 256], batch=[236], ptr=[2])
+getting edges...
+Loss:  4.224416255950928
+Step 55:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[101, 3], edge_index=[2, 5050], edge_attr=[5050, 256], y=[1], node_attr=[101, 256], batch=[101], ptr=[2])
+getting edges...
+Loss:  1.6059151887893677
+Step 56:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[169, 3], edge_index=[2, 14196], edge_attr=[14196, 256], y=[1], node_attr=[169, 256], batch=[169], ptr=[2])
+getting edges...
+Loss:  0.4693717360496521
+Step 57:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[235, 3], edge_index=[2, 27495], edge_attr=[27495, 256], y=[1], node_attr=[235, 256], batch=[235], ptr=[2])
+getting edges...
+Loss:  0.26929354667663574
+Step 58:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[121, 3], edge_index=[2, 7260], edge_attr=[7260, 256], y=[1], node_attr=[121, 256], batch=[121], ptr=[2])
+getting edges...
+Loss:  0.9784795045852661
+Step 59:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[47, 3], edge_index=[2, 1081], edge_attr=[1081, 256], y=[1], node_attr=[47, 256], batch=[47], ptr=[2])
+getting edges...
+Loss:  5.016683101654053
+Step 60:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[122, 3], edge_index=[2, 7381], edge_attr=[7381, 256], y=[1], node_attr=[122, 256], batch=[122], ptr=[2])
+getting edges...
+Loss:  1.005673885345459
+Step 61:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[78, 3], edge_index=[2, 3003], edge_attr=[3003, 256], y=[1], node_attr=[78, 256], batch=[78], ptr=[2])
+getting edges...
+Loss:  1.4215822219848633
+Step 62:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[276, 3], edge_index=[2, 37950], edge_attr=[37950, 256], y=[1], node_attr=[276, 256], batch=[276], ptr=[2])
+getting edges...
+Loss:  0.4035758674144745
+Step 63:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[77, 3], edge_index=[2, 2926], edge_attr=[2926, 256], y=[1], node_attr=[77, 256], batch=[77], ptr=[2])
+getting edges...
+Loss:  1.2533628940582275
+Step 64:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[50, 3], edge_index=[2, 1225], edge_attr=[1225, 256], y=[1], node_attr=[50, 256], batch=[50], ptr=[2])
+getting edges...
+Loss:  1.6798129081726074
+Step 65:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[159, 3], edge_index=[2, 12561], edge_attr=[12561, 256], y=[1], node_attr=[159, 256], batch=[159], ptr=[2])
+getting edges...
+Loss:  0.47254735231399536
+Step 66:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[127, 3], edge_index=[2, 8001], edge_attr=[8001, 256], y=[1], node_attr=[127, 256], batch=[127], ptr=[2])
+getting edges...
+Loss:  0.09343729168176651
+Step 67:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[137, 3], edge_index=[2, 9316], edge_attr=[9316, 256], y=[1], node_attr=[137, 256], batch=[137], ptr=[2])
+getting edges...
+Loss:  2.1763057708740234
+Step 68:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[200, 3], edge_index=[2, 19900], edge_attr=[19900, 256], y=[1], node_attr=[200, 256], batch=[200], ptr=[2])
+getting edges...
+Loss:  1.6837255954742432
+Step 69:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[259, 3], edge_index=[2, 33411], edge_attr=[33411, 256], y=[1], node_attr=[259, 256], batch=[259], ptr=[2])
+getting edges...
+Loss:  0.6601486802101135
+Step 70:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[67, 3], edge_index=[2, 2211], edge_attr=[2211, 256], y=[1], node_attr=[67, 256], batch=[67], ptr=[2])
+getting edges...
+Loss:  0.7944809794425964
+Step 71:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[79, 3], edge_index=[2, 3081], edge_attr=[3081, 256], y=[1], node_attr=[79, 256], batch=[79], ptr=[2])
+getting edges...
+Loss:  0.9413719177246094
+Step 72:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[213, 3], edge_index=[2, 22578], edge_attr=[22578, 256], y=[1], node_attr=[213, 256], batch=[213], ptr=[2])
+getting edges...
+Loss:  1.0935537815093994
+Step 73:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[336, 3], edge_index=[2, 56280], edge_attr=[56280, 256], y=[1], node_attr=[336, 256], batch=[336], ptr=[2])
+getting edges...
+Loss:  7.72393798828125
+Step 74:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[38, 3], edge_index=[2, 703], edge_attr=[703, 256], y=[1], node_attr=[38, 256], batch=[38], ptr=[2])
+getting edges...
+Loss:  0.04882894083857536
+Step 75:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[54, 3], edge_index=[2, 1431], edge_attr=[1431, 256], y=[1], node_attr=[54, 256], batch=[54], ptr=[2])
+getting edges...
+Loss:  0.9500152468681335
+Step 76:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[185, 3], edge_index=[2, 17020], edge_attr=[17020, 256], y=[1], node_attr=[185, 256], batch=[185], ptr=[2])
+getting edges...
+Loss:  0.7478119730949402
+Step 77:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[168, 3], edge_index=[2, 14028], edge_attr=[14028, 256], y=[1], node_attr=[168, 256], batch=[168], ptr=[2])
+getting edges...
+Loss:  2.6943514347076416
+Step 78:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[169, 3], edge_index=[2, 14196], edge_attr=[14196, 256], y=[1], node_attr=[169, 256], batch=[169], ptr=[2])
+getting edges...
+Loss:  2.6689846515655518
+Step 79:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[202, 3], edge_index=[2, 20301], edge_attr=[20301, 256], y=[1], node_attr=[202, 256], batch=[202], ptr=[2])
+getting edges...
+Loss:  2.5648679733276367
+Step 80:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[177, 3], edge_index=[2, 15576], edge_attr=[15576, 256], y=[1], node_attr=[177, 256], batch=[177], ptr=[2])
+getting edges...
+Loss:  2.0647757053375244
+Step 81:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[145, 3], edge_index=[2, 10440], edge_attr=[10440, 256], y=[1], node_attr=[145, 256], batch=[145], ptr=[2])
+getting edges...
+Loss:  1.6476259231567383
+Step 82:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[220, 3], edge_index=[2, 24090], edge_attr=[24090, 256], y=[1], node_attr=[220, 256], batch=[220], ptr=[2])
+getting edges...
+Loss:  0.16803720593452454
+Step 83:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[471, 3], edge_index=[2, 110685], edge_attr=[110685, 256], y=[1], node_attr=[471, 256], batch=[471], ptr=[2])
+getting edges...
+Loss:  5.631959915161133
+Step 84:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[37, 3], edge_index=[2, 666], edge_attr=[666, 256], y=[1], node_attr=[37, 256], batch=[37], ptr=[2])
+getting edges...
+Loss:  2.0765109062194824
+Step 85:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[236, 3], edge_index=[2, 27730], edge_attr=[27730, 256], y=[1], node_attr=[236, 256], batch=[236], ptr=[2])
+getting edges...
+Loss:  0.5247470140457153
+Step 86:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[57, 3], edge_index=[2, 1596], edge_attr=[1596, 256], y=[1], node_attr=[57, 256], batch=[57], ptr=[2])
+getting edges...
+Loss:  1.7140460014343262
+Step 87:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[100, 3], edge_index=[2, 4950], edge_attr=[4950, 256], y=[1], node_attr=[100, 256], batch=[100], ptr=[2])
+getting edges...
+Loss:  0.19282670319080353
+Step 88:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[77, 3], edge_index=[2, 2926], edge_attr=[2926, 256], y=[1], node_attr=[77, 256], batch=[77], ptr=[2])
+getting edges...
+Loss:  1.4276131391525269
+Step 89:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[225, 3], edge_index=[2, 25200], edge_attr=[25200, 256], y=[1], node_attr=[225, 256], batch=[225], ptr=[2])
+getting edges...
+Loss:  2.7184817790985107
+Step 90:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[115, 3], edge_index=[2, 6555], edge_attr=[6555, 256], y=[1], node_attr=[115, 256], batch=[115], ptr=[2])
+getting edges...
+Loss:  0.901995837688446
+Step 91:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[254, 3], edge_index=[2, 32131], edge_attr=[32131, 256], y=[1], node_attr=[254, 256], batch=[254], ptr=[2])
+getting edges...
+Loss:  1.7997205257415771
+Step 92:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[105, 3], edge_index=[2, 5460], edge_attr=[5460, 256], y=[1], node_attr=[105, 256], batch=[105], ptr=[2])
+getting edges...
+Loss:  0.9883238673210144
+Step 93:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[86, 3], edge_index=[2, 3655], edge_attr=[3655, 256], y=[1], node_attr=[86, 256], batch=[86], ptr=[2])
+getting edges...
+Loss:  0.28212782740592957
+Step 94:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[137, 3], edge_index=[2, 9316], edge_attr=[9316, 256], y=[1], node_attr=[137, 256], batch=[137], ptr=[2])
+getting edges...
+Loss:  0.9898043274879456
+Step 95:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[106, 3], edge_index=[2, 5565], edge_attr=[5565, 256], y=[1], node_attr=[106, 256], batch=[106], ptr=[2])
+getting edges...
+Loss:  1.131440281867981
+Step 96:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[295, 3], edge_index=[2, 43365], edge_attr=[43365, 256], y=[1], node_attr=[295, 256], batch=[295], ptr=[2])
+getting edges...
+Loss:  1.9886424541473389
+Step 97:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[60, 3], edge_index=[2, 1770], edge_attr=[1770, 256], y=[1], node_attr=[60, 256], batch=[60], ptr=[2])
+getting edges...
+Loss:  0.41095271706581116
+Step 98:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[102, 3], edge_index=[2, 5151], edge_attr=[5151, 256], y=[1], node_attr=[102, 256], batch=[102], ptr=[2])
+getting edges...
+Loss:  0.16241995990276337
+Step 99:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[47, 3], edge_index=[2, 1081], edge_attr=[1081, 256], y=[1], node_attr=[47, 256], batch=[47], ptr=[2])
+getting edges...
+Loss:  1.5063759088516235
+Step 100:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[67, 3], edge_index=[2, 2211], edge_attr=[2211, 256], y=[1], node_attr=[67, 256], batch=[67], ptr=[2])
+getting edges...
+Loss:  0.8652967214584351
+Step 101:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[264, 3], edge_index=[2, 34716], edge_attr=[34716, 256], y=[1], node_attr=[264, 256], batch=[264], ptr=[2])
+getting edges...
+Loss:  0.28282421827316284
+Step 102:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[160, 3], edge_index=[2, 12720], edge_attr=[12720, 256], y=[1], node_attr=[160, 256], batch=[160], ptr=[2])
+getting edges...
+Loss:  0.27948862314224243
+Step 103:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[115, 3], edge_index=[2, 6555], edge_attr=[6555, 256], y=[1], node_attr=[115, 256], batch=[115], ptr=[2])
+getting edges...
+Loss:  0.6592631936073303
+Step 104:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[32, 3], edge_index=[2, 496], edge_attr=[496, 256], y=[1], node_attr=[32, 256], batch=[32], ptr=[2])
+getting edges...
+Loss:  4.6964287757873535
+Step 105:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[91, 3], edge_index=[2, 4095], edge_attr=[4095, 256], y=[1], node_attr=[91, 256], batch=[91], ptr=[2])
+getting edges...
+Loss:  0.682307779788971
+Step 106:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[95, 3], edge_index=[2, 4465], edge_attr=[4465, 256], y=[1], node_attr=[95, 256], batch=[95], ptr=[2])
+getting edges...
+Loss:  1.5377004146575928
+Step 107:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[118, 3], edge_index=[2, 6903], edge_attr=[6903, 256], y=[1], node_attr=[118, 256], batch=[118], ptr=[2])
+getting edges...
+Loss:  0.14964593946933746
+Step 108:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[107, 3], edge_index=[2, 5671], edge_attr=[5671, 256], y=[1], node_attr=[107, 256], batch=[107], ptr=[2])
+getting edges...
+Loss:  0.8748679161071777
+Step 109:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[134, 3], edge_index=[2, 8911], edge_attr=[8911, 256], y=[1], node_attr=[134, 256], batch=[134], ptr=[2])
+getting edges...
+Loss:  0.21116232872009277
+Step 110:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[212, 3], edge_index=[2, 22366], edge_attr=[22366, 256], y=[1], node_attr=[212, 256], batch=[212], ptr=[2])
+getting edges...
+Loss:  0.4923292398452759
+Step 111:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[125, 3], edge_index=[2, 7750], edge_attr=[7750, 256], y=[1], node_attr=[125, 256], batch=[125], ptr=[2])
+getting edges...
+Loss:  2.149203300476074
+Step 112:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[168, 3], edge_index=[2, 14028], edge_attr=[14028, 256], y=[1], node_attr=[168, 256], batch=[168], ptr=[2])
+getting edges...
+Loss:  1.478283166885376
+Step 113:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[240, 3], edge_index=[2, 28680], edge_attr=[28680, 256], y=[1], node_attr=[240, 256], batch=[240], ptr=[2])
+getting edges...
+Loss:  0.4975056052207947
+Step 114:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[132, 3], edge_index=[2, 8646], edge_attr=[8646, 256], y=[1], node_attr=[132, 256], batch=[132], ptr=[2])
+getting edges...
+Loss:  0.3938473165035248
+Step 115:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[167, 3], edge_index=[2, 13861], edge_attr=[13861, 256], y=[1], node_attr=[167, 256], batch=[167], ptr=[2])
+getting edges...
+Loss:  0.8221275210380554
+Step 116:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[101, 3], edge_index=[2, 5050], edge_attr=[5050, 256], y=[1], node_attr=[101, 256], batch=[101], ptr=[2])
+getting edges...
+Loss:  0.29171836376190186
+Step 117:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[233, 3], edge_index=[2, 27028], edge_attr=[27028, 256], y=[1], node_attr=[233, 256], batch=[233], ptr=[2])
+getting edges...
+Loss:  1.6055374145507812
+Step 118:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[95, 3], edge_index=[2, 4465], edge_attr=[4465, 256], y=[1], node_attr=[95, 256], batch=[95], ptr=[2])
+getting edges...
+Loss:  0.7503840923309326
+Step 119:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[64, 3], edge_index=[2, 2016], edge_attr=[2016, 256], y=[1], node_attr=[64, 256], batch=[64], ptr=[2])
+getting edges...
+Loss:  1.0102076530456543
+Step 120:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[156, 3], edge_index=[2, 12090], edge_attr=[12090, 256], y=[1], node_attr=[156, 256], batch=[156], ptr=[2])
+getting edges...
+Loss:  0.09557349979877472
+Step 121:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[78, 3], edge_index=[2, 3003], edge_attr=[3003, 256], y=[1], node_attr=[78, 256], batch=[78], ptr=[2])
+getting edges...
+Loss:  0.6593299508094788
+Step 122:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[139, 3], edge_index=[2, 9591], edge_attr=[9591, 256], y=[1], node_attr=[139, 256], batch=[139], ptr=[2])
+getting edges...
+Loss:  0.16673128306865692
+Step 123:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[219, 3], edge_index=[2, 23871], edge_attr=[23871, 256], y=[1], node_attr=[219, 256], batch=[219], ptr=[2])
+getting edges...
+Loss:  2.8780667781829834
+Step 124:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[297, 3], edge_index=[2, 43956], edge_attr=[43956, 256], y=[1], node_attr=[297, 256], batch=[297], ptr=[2])
+getting edges...
+Loss:  6.8467583656311035
+Step 125:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[151, 3], edge_index=[2, 11325], edge_attr=[11325, 256], y=[1], node_attr=[151, 256], batch=[151], ptr=[2])
+getting edges...
+Loss:  0.3439427316188812
+Step 126:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[390, 3], edge_index=[2, 75855], edge_attr=[75855, 256], y=[1], node_attr=[390, 256], batch=[390], ptr=[2])
+getting edges...
+Loss:  0.8815544247627258
+Step 127:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[176, 3], edge_index=[2, 15400], edge_attr=[15400, 256], y=[1], node_attr=[176, 256], batch=[176], ptr=[2])
+getting edges...
+Loss:  0.4391418397426605
+Step 128:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[58, 3], edge_index=[2, 1653], edge_attr=[1653, 256], y=[1], node_attr=[58, 256], batch=[58], ptr=[2])
+getting edges...
+Loss:  0.9874597787857056
+Step 129:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[155, 3], edge_index=[2, 11935], edge_attr=[11935, 256], y=[1], node_attr=[155, 256], batch=[155], ptr=[2])
+getting edges...
+Loss:  1.1917539834976196
+Step 130:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[57, 3], edge_index=[2, 1596], edge_attr=[1596, 256], y=[1], node_attr=[57, 256], batch=[57], ptr=[2])
+getting edges...
+Loss:  0.9479307532310486
+Step 131:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[464, 3], edge_index=[2, 107416], edge_attr=[107416, 256], y=[1], node_attr=[464, 256], batch=[464], ptr=[2])
+getting edges...
+Loss:  4.193073749542236
+Step 132:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[82, 3], edge_index=[2, 3321], edge_attr=[3321, 256], y=[1], node_attr=[82, 256], batch=[82], ptr=[2])
+getting edges...
+Loss:  0.47242605686187744
+Step 133:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[99, 3], edge_index=[2, 4851], edge_attr=[4851, 256], y=[1], node_attr=[99, 256], batch=[99], ptr=[2])
+getting edges...
+Loss:  1.8924356698989868
+Step 134:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[188, 3], edge_index=[2, 17578], edge_attr=[17578, 256], y=[1], node_attr=[188, 256], batch=[188], ptr=[2])
+getting edges...
+Loss:  0.7880874276161194
+Step 135:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[90, 3], edge_index=[2, 4005], edge_attr=[4005, 256], y=[1], node_attr=[90, 256], batch=[90], ptr=[2])
+getting edges...
+Loss:  1.6639902591705322
+Step 136:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[130, 3], edge_index=[2, 8385], edge_attr=[8385, 256], y=[1], node_attr=[130, 256], batch=[130], ptr=[2])
+getting edges...
+Loss:  0.4345695376396179
+Step 137:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[49, 3], edge_index=[2, 1176], edge_attr=[1176, 256], y=[1], node_attr=[49, 256], batch=[49], ptr=[2])
+getting edges...
+Loss:  1.0170429944992065
+Step 138:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[96, 3], edge_index=[2, 4560], edge_attr=[4560, 256], y=[1], node_attr=[96, 256], batch=[96], ptr=[2])
+getting edges...
+Loss:  0.2817210853099823
+Step 139:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[140, 3], edge_index=[2, 9730], edge_attr=[9730, 256], y=[1], node_attr=[140, 256], batch=[140], ptr=[2])
+getting edges...
+Loss:  0.8176641464233398
+Step 140:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[156, 3], edge_index=[2, 12090], edge_attr=[12090, 256], y=[1], node_attr=[156, 256], batch=[156], ptr=[2])
+getting edges...
+Loss:  0.1696125864982605
+Step 141:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[266, 3], edge_index=[2, 35245], edge_attr=[35245, 256], y=[1], node_attr=[266, 256], batch=[266], ptr=[2])
+getting edges...
+Loss:  9.155364036560059
+Step 142:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[260, 3], edge_index=[2, 33670], edge_attr=[33670, 256], y=[1], node_attr=[260, 256], batch=[260], ptr=[2])
+getting edges...
+Loss:  2.4441285133361816
+Step 143:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[73, 3], edge_index=[2, 2628], edge_attr=[2628, 256], y=[1], node_attr=[73, 256], batch=[73], ptr=[2])
+getting edges...
+Loss:  0.8969838619232178
+Step 144:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[85, 3], edge_index=[2, 3570], edge_attr=[3570, 256], y=[1], node_attr=[85, 256], batch=[85], ptr=[2])
+getting edges...
+Loss:  0.8700385689735413
+Step 145:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[262, 3], edge_index=[2, 34191], edge_attr=[34191, 256], y=[1], node_attr=[262, 256], batch=[262], ptr=[2])
+getting edges...
+Loss:  1.3866281509399414
+Step 146:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[155, 3], edge_index=[2, 11935], edge_attr=[11935, 256], y=[1], node_attr=[155, 256], batch=[155], ptr=[2])
+getting edges...
+Loss:  1.534961462020874
+Step 147:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[155, 3], edge_index=[2, 11935], edge_attr=[11935, 256], y=[1], node_attr=[155, 256], batch=[155], ptr=[2])
+getting edges...
+Loss:  0.39722129702568054
+Step 148:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[81, 3], edge_index=[2, 3240], edge_attr=[3240, 256], y=[1], node_attr=[81, 256], batch=[81], ptr=[2])
+getting edges...
+Loss:  1.3464093208312988
+Step 149:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[43, 3], edge_index=[2, 903], edge_attr=[903, 256], y=[1], node_attr=[43, 256], batch=[43], ptr=[2])
+getting edges...
+Loss:  0.4147616922855377
+Step 150:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[99, 3], edge_index=[2, 4851], edge_attr=[4851, 256], y=[1], node_attr=[99, 256], batch=[99], ptr=[2])
+getting edges...
+Loss:  0.427493691444397
+Step 151:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[268, 3], edge_index=[2, 35778], edge_attr=[35778, 256], y=[1], node_attr=[268, 256], batch=[268], ptr=[2])
+getting edges...
+Loss:  10.272770881652832
+Step 152:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[212, 3], edge_index=[2, 22366], edge_attr=[22366, 256], y=[1], node_attr=[212, 256], batch=[212], ptr=[2])
+getting edges...
+Loss:  1.490358829498291
+Step 153:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[202, 3], edge_index=[2, 20301], edge_attr=[20301, 256], y=[1], node_attr=[202, 256], batch=[202], ptr=[2])
+getting edges...
+Loss:  1.7851814031600952
+Step 154:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[59, 3], edge_index=[2, 1711], edge_attr=[1711, 256], y=[1], node_attr=[59, 256], batch=[59], ptr=[2])
+getting edges...
+Loss:  0.47881025075912476
+Step 155:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[108, 3], edge_index=[2, 5778], edge_attr=[5778, 256], y=[1], node_attr=[108, 256], batch=[108], ptr=[2])
+getting edges...
+Loss:  1.0775407552719116
+Step 156:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[112, 3], edge_index=[2, 6216], edge_attr=[6216, 256], y=[1], node_attr=[112, 256], batch=[112], ptr=[2])
+getting edges...
+Loss:  0.20424945652484894
+Step 157:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[83, 3], edge_index=[2, 3403], edge_attr=[3403, 256], y=[1], node_attr=[83, 256], batch=[83], ptr=[2])
+getting edges...
+Loss:  0.9706489443778992
+Step 158:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[191, 3], edge_index=[2, 18145], edge_attr=[18145, 256], y=[1], node_attr=[191, 256], batch=[191], ptr=[2])
+getting edges...
+Loss:  0.4170643389225006
+Step 159:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[65, 3], edge_index=[2, 2080], edge_attr=[2080, 256], y=[1], node_attr=[65, 256], batch=[65], ptr=[2])
+getting edges...
+Loss:  0.9679245352745056
+Step 160:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[265, 3], edge_index=[2, 34980], edge_attr=[34980, 256], y=[1], node_attr=[265, 256], batch=[265], ptr=[2])
+getting edges...
+Loss:  6.680215358734131
+Step 161:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[82, 3], edge_index=[2, 3321], edge_attr=[3321, 256], y=[1], node_attr=[82, 256], batch=[82], ptr=[2])
+getting edges...
+Loss:  0.765216588973999
+Step 162:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[196, 3], edge_index=[2, 19110], edge_attr=[19110, 256], y=[1], node_attr=[196, 256], batch=[196], ptr=[2])
+getting edges...
+Loss:  1.4712116718292236
+Step 163:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[200, 3], edge_index=[2, 19900], edge_attr=[19900, 256], y=[1], node_attr=[200, 256], batch=[200], ptr=[2])
+getting edges...
+Loss:  0.707031786441803
+Step 164:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[142, 3], edge_index=[2, 10011], edge_attr=[10011, 256], y=[1], node_attr=[142, 256], batch=[142], ptr=[2])
+getting edges...
+Loss:  1.2526229619979858
+Step 165:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[33, 3], edge_index=[2, 528], edge_attr=[528, 256], y=[1], node_attr=[33, 256], batch=[33], ptr=[2])
+getting edges...
+Loss:  2.6041011810302734
+Step 166:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[347, 3], edge_index=[2, 60031], edge_attr=[60031, 256], y=[1], node_attr=[347, 256], batch=[347], ptr=[2])
+getting edges...
+Loss:  4.554401874542236
+Step 167:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[385, 3], edge_index=[2, 73920], edge_attr=[73920, 256], y=[1], node_attr=[385, 256], batch=[385], ptr=[2])
+getting edges...
+Loss:  15.160432815551758
+Step 168:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[119, 3], edge_index=[2, 7021], edge_attr=[7021, 256], y=[1], node_attr=[119, 256], batch=[119], ptr=[2])
+getting edges...
+Loss:  0.4291566014289856
+Step 169:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[139, 3], edge_index=[2, 9591], edge_attr=[9591, 256], y=[1], node_attr=[139, 256], batch=[139], ptr=[2])
+getting edges...
+Loss:  0.5163936614990234
+Step 170:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[96, 3], edge_index=[2, 4560], edge_attr=[4560, 256], y=[1], node_attr=[96, 256], batch=[96], ptr=[2])
+getting edges...
+Loss:  0.7677375674247742
+Step 171:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[221, 3], edge_index=[2, 24310], edge_attr=[24310, 256], y=[1], node_attr=[221, 256], batch=[221], ptr=[2])
+getting edges...
+Loss:  10.865059852600098
+Step 172:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[163, 3], edge_index=[2, 13203], edge_attr=[13203, 256], y=[1], node_attr=[163, 256], batch=[163], ptr=[2])
+getting edges...
+Loss:  10.750530242919922
+Step 173:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[111, 3], edge_index=[2, 6105], edge_attr=[6105, 256], y=[1], node_attr=[111, 256], batch=[111], ptr=[2])
+getting edges...
+Loss:  0.9660234451293945
+Step 174:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[156, 3], edge_index=[2, 12090], edge_attr=[12090, 256], y=[1], node_attr=[156, 256], batch=[156], ptr=[2])
+getting edges...
+Loss:  22.890045166015625
+Step 175:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[125, 3], edge_index=[2, 7750], edge_attr=[7750, 256], y=[1], node_attr=[125, 256], batch=[125], ptr=[2])
+getting edges...
+Loss:  8.080414772033691
+Step 176:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[292, 3], edge_index=[2, 42486], edge_attr=[42486, 256], y=[1], node_attr=[292, 256], batch=[292], ptr=[2])
+getting edges...
+Loss:  204.49612426757812
+Step 177:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[247, 3], edge_index=[2, 30381], edge_attr=[30381, 256], y=[1], node_attr=[247, 256], batch=[247], ptr=[2])
+getting edges...
+Loss:  4.268001556396484
+Step 178:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[148, 3], edge_index=[2, 10878], edge_attr=[10878, 256], y=[1], node_attr=[148, 256], batch=[148], ptr=[2])
+getting edges...
+Loss:  0.52812260389328
+Step 179:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[216, 3], edge_index=[2, 23220], edge_attr=[23220, 256], y=[1], node_attr=[216, 256], batch=[216], ptr=[2])
+getting edges...
+Loss:  0.47058385610580444
+Step 180:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[83, 3], edge_index=[2, 3403], edge_attr=[3403, 256], y=[1], node_attr=[83, 256], batch=[83], ptr=[2])
+getting edges...
+Loss:  1.238869309425354
+Step 181:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[99, 3], edge_index=[2, 4851], edge_attr=[4851, 256], y=[1], node_attr=[99, 256], batch=[99], ptr=[2])
+getting edges...
+Loss:  0.2909494638442993
+Step 182:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[147, 3], edge_index=[2, 10731], edge_attr=[10731, 256], y=[1], node_attr=[147, 256], batch=[147], ptr=[2])
+getting edges...
+Loss:  0.14483705163002014
+Step 183:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[43, 3], edge_index=[2, 903], edge_attr=[903, 256], y=[1], node_attr=[43, 256], batch=[43], ptr=[2])
+getting edges...
+Loss:  0.4630886912345886
+Step 184:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[127, 3], edge_index=[2, 8001], edge_attr=[8001, 256], y=[1], node_attr=[127, 256], batch=[127], ptr=[2])
+getting edges...
+Loss:  0.9175204634666443
+Step 185:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[155, 3], edge_index=[2, 11935], edge_attr=[11935, 256], y=[1], node_attr=[155, 256], batch=[155], ptr=[2])
+getting edges...
+Loss:  0.5314901471138
+Step 186:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[35, 3], edge_index=[2, 595], edge_attr=[595, 256], y=[1], node_attr=[35, 256], batch=[35], ptr=[2])
+getting edges...
+Loss:  4.830411434173584
+Step 187:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[140, 3], edge_index=[2, 9730], edge_attr=[9730, 256], y=[1], node_attr=[140, 256], batch=[140], ptr=[2])
+getting edges...
+Loss:  0.22195947170257568
+Step 188:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[110, 3], edge_index=[2, 5995], edge_attr=[5995, 256], y=[1], node_attr=[110, 256], batch=[110], ptr=[2])
+getting edges...
+Loss:  1.0610719919204712
+Step 189:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[133, 3], edge_index=[2, 8778], edge_attr=[8778, 256], y=[1], node_attr=[133, 256], batch=[133], ptr=[2])
+getting edges...
+Loss:  1.3643195629119873
+Step 190:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[126, 3], edge_index=[2, 7875], edge_attr=[7875, 256], y=[1], node_attr=[126, 256], batch=[126], ptr=[2])
+getting edges...
+Loss:  0.5047104954719543
+Step 191:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[235, 3], edge_index=[2, 27495], edge_attr=[27495, 256], y=[1], node_attr=[235, 256], batch=[235], ptr=[2])
+getting edges...
+Loss:  3.598452091217041
+Step 192:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[223, 3], edge_index=[2, 24753], edge_attr=[24753, 256], y=[1], node_attr=[223, 256], batch=[223], ptr=[2])
+getting edges...
+Loss:  0.8888419270515442
+Step 193:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[191, 3], edge_index=[2, 18145], edge_attr=[18145, 256], y=[1], node_attr=[191, 256], batch=[191], ptr=[2])
+getting edges...
+Loss:  1.2393931150436401
+Step 194:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[87, 3], edge_index=[2, 3741], edge_attr=[3741, 256], y=[1], node_attr=[87, 256], batch=[87], ptr=[2])
+getting edges...
+Loss:  3.465543270111084
+Step 195:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[87, 3], edge_index=[2, 3741], edge_attr=[3741, 256], y=[1], node_attr=[87, 256], batch=[87], ptr=[2])
+getting edges...
+Loss:  0.17025920748710632
+Step 196:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[58, 3], edge_index=[2, 1653], edge_attr=[1653, 256], y=[1], node_attr=[58, 256], batch=[58], ptr=[2])
+getting edges...
+Loss:  0.8450159430503845
+Step 197:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[239, 3], edge_index=[2, 28441], edge_attr=[28441, 256], y=[1], node_attr=[239, 256], batch=[239], ptr=[2])
+getting edges...
+Loss:  2.2066256999969482
+Step 198:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[346, 3], edge_index=[2, 59685], edge_attr=[59685, 256], y=[1], node_attr=[346, 256], batch=[346], ptr=[2])
+getting edges...
+Loss:  8.981101989746094
+Step 199:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[169, 3], edge_index=[2, 14196], edge_attr=[14196, 256], y=[1], node_attr=[169, 256], batch=[169], ptr=[2])
+getting edges...
+Loss:  0.6463854908943176
+Step 200:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[150, 3], edge_index=[2, 11175], edge_attr=[11175, 256], y=[1], node_attr=[150, 256], batch=[150], ptr=[2])
+getting edges...
+Loss:  0.4451424777507782
+Step 1:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[111, 3], edge_index=[2, 6105], edge_attr=[6105, 256], y=[1], node_attr=[111, 256], batch=[111], ptr=[2])
+getting edges...
+Step 2:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[360, 3], edge_index=[2, 64620], edge_attr=[64620, 256], y=[1], node_attr=[360, 256], batch=[360], ptr=[2])
+getting edges...
+Step 3:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[195, 3], edge_index=[2, 18915], edge_attr=[18915, 256], y=[1], node_attr=[195, 256], batch=[195], ptr=[2])
+getting edges...
+Step 4:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[45, 3], edge_index=[2, 990], edge_attr=[990, 256], y=[1], node_attr=[45, 256], batch=[45], ptr=[2])
+getting edges...
+Step 5:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[126, 3], edge_index=[2, 7875], edge_attr=[7875, 256], y=[1], node_attr=[126, 256], batch=[126], ptr=[2])
+getting edges...
+Step 6:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[215, 3], edge_index=[2, 23005], edge_attr=[23005, 256], y=[1], node_attr=[215, 256], batch=[215], ptr=[2])
+getting edges...
+Step 7:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[136, 3], edge_index=[2, 9180], edge_attr=[9180, 256], y=[1], node_attr=[136, 256], batch=[136], ptr=[2])
+getting edges...
+Step 8:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[193, 3], edge_index=[2, 18528], edge_attr=[18528, 256], y=[1], node_attr=[193, 256], batch=[193], ptr=[2])
+getting edges...
+Step 9:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[124, 3], edge_index=[2, 7626], edge_attr=[7626, 256], y=[1], node_attr=[124, 256], batch=[124], ptr=[2])
+getting edges...
+Step 10:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[254, 3], edge_index=[2, 32131], edge_attr=[32131, 256], y=[1], node_attr=[254, 256], batch=[254], ptr=[2])
+getting edges...
+Step 11:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[133, 3], edge_index=[2, 8778], edge_attr=[8778, 256], y=[1], node_attr=[133, 256], batch=[133], ptr=[2])
+getting edges...
+Step 12:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[169, 3], edge_index=[2, 14196], edge_attr=[14196, 256], y=[1], node_attr=[169, 256], batch=[169], ptr=[2])
+getting edges...
+Step 13:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[60, 3], edge_index=[2, 1770], edge_attr=[1770, 256], y=[1], node_attr=[60, 256], batch=[60], ptr=[2])
+getting edges...
+Step 14:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[134, 3], edge_index=[2, 8911], edge_attr=[8911, 256], y=[1], node_attr=[134, 256], batch=[134], ptr=[2])
+getting edges...
+Step 15:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[178, 3], edge_index=[2, 15753], edge_attr=[15753, 256], y=[1], node_attr=[178, 256], batch=[178], ptr=[2])
+getting edges...
+Step 16:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[110, 3], edge_index=[2, 5995], edge_attr=[5995, 256], y=[1], node_attr=[110, 256], batch=[110], ptr=[2])
+getting edges...
+Step 17:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[213, 3], edge_index=[2, 22578], edge_attr=[22578, 256], y=[1], node_attr=[213, 256], batch=[213], ptr=[2])
+getting edges...
+Step 18:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[69, 3], edge_index=[2, 2346], edge_attr=[2346, 256], y=[1], node_attr=[69, 256], batch=[69], ptr=[2])
+getting edges...
+Step 19:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[295, 3], edge_index=[2, 43365], edge_attr=[43365, 256], y=[1], node_attr=[295, 256], batch=[295], ptr=[2])
+getting edges...
+Step 20:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[222, 3], edge_index=[2, 24531], edge_attr=[24531, 256], y=[1], node_attr=[222, 256], batch=[222], ptr=[2])
+getting edges...
+Step 21:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[76, 3], edge_index=[2, 2850], edge_attr=[2850, 256], y=[1], node_attr=[76, 256], batch=[76], ptr=[2])
+getting edges...
+Step 22:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[296, 3], edge_index=[2, 43660], edge_attr=[43660, 256], y=[1], node_attr=[296, 256], batch=[296], ptr=[2])
+getting edges...
+Step 23:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[130, 3], edge_index=[2, 8385], edge_attr=[8385, 256], y=[1], node_attr=[130, 256], batch=[130], ptr=[2])
+getting edges...
+Step 24:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[123, 3], edge_index=[2, 7503], edge_attr=[7503, 256], y=[1], node_attr=[123, 256], batch=[123], ptr=[2])
+getting edges...
+Step 25:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[100, 3], edge_index=[2, 4950], edge_attr=[4950, 256], y=[1], node_attr=[100, 256], batch=[100], ptr=[2])
+getting edges...
+Step 26:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[80, 3], edge_index=[2, 3160], edge_attr=[3160, 256], y=[1], node_attr=[80, 256], batch=[80], ptr=[2])
+getting edges...
+Step 27:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[364, 3], edge_index=[2, 66066], edge_attr=[66066, 256], y=[1], node_attr=[364, 256], batch=[364], ptr=[2])
+getting edges...
+Step 28:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[158, 3], edge_index=[2, 12403], edge_attr=[12403, 256], y=[1], node_attr=[158, 256], batch=[158], ptr=[2])
+getting edges...
+Step 29:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[87, 3], edge_index=[2, 3741], edge_attr=[3741, 256], y=[1], node_attr=[87, 256], batch=[87], ptr=[2])
+getting edges...
+Step 30:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[236, 3], edge_index=[2, 27730], edge_attr=[27730, 256], y=[1], node_attr=[236, 256], batch=[236], ptr=[2])
+getting edges...
+Step 31:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[84, 3], edge_index=[2, 3486], edge_attr=[3486, 256], y=[1], node_attr=[84, 256], batch=[84], ptr=[2])
+getting edges...
+Step 32:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[155, 3], edge_index=[2, 11935], edge_attr=[11935, 256], y=[1], node_attr=[155, 256], batch=[155], ptr=[2])
+getting edges...
+Step 33:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[146, 3], edge_index=[2, 10585], edge_attr=[10585, 256], y=[1], node_attr=[146, 256], batch=[146], ptr=[2])
+getting edges...
+Step 34:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[45, 3], edge_index=[2, 990], edge_attr=[990, 256], y=[1], node_attr=[45, 256], batch=[45], ptr=[2])
+getting edges...
+Step 35:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[388, 3], edge_index=[2, 75078], edge_attr=[75078, 256], y=[1], node_attr=[388, 256], batch=[388], ptr=[2])
+getting edges...
+Step 36:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[262, 3], edge_index=[2, 34191], edge_attr=[34191, 256], y=[1], node_attr=[262, 256], batch=[262], ptr=[2])
+getting edges...
+Step 37:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[139, 3], edge_index=[2, 9591], edge_attr=[9591, 256], y=[1], node_attr=[139, 256], batch=[139], ptr=[2])
+getting edges...
+Step 38:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[106, 3], edge_index=[2, 5565], edge_attr=[5565, 256], y=[1], node_attr=[106, 256], batch=[106], ptr=[2])
+getting edges...
+Step 39:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[134, 3], edge_index=[2, 8911], edge_attr=[8911, 256], y=[1], node_attr=[134, 256], batch=[134], ptr=[2])
+getting edges...
+Step 40:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[154, 3], edge_index=[2, 11781], edge_attr=[11781, 256], y=[1], node_attr=[154, 256], batch=[154], ptr=[2])
+getting edges...
+Step 41:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[166, 3], edge_index=[2, 13695], edge_attr=[13695, 256], y=[1], node_attr=[166, 256], batch=[166], ptr=[2])
+getting edges...
+Step 42:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[323, 3], edge_index=[2, 52003], edge_attr=[52003, 256], y=[1], node_attr=[323, 256], batch=[323], ptr=[2])
+getting edges...
+Step 43:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[70, 3], edge_index=[2, 2415], edge_attr=[2415, 256], y=[1], node_attr=[70, 256], batch=[70], ptr=[2])
+getting edges...
+Step 44:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[104, 3], edge_index=[2, 5356], edge_attr=[5356, 256], y=[1], node_attr=[104, 256], batch=[104], ptr=[2])
+getting edges...
+Step 45:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[65, 3], edge_index=[2, 2080], edge_attr=[2080, 256], y=[1], node_attr=[65, 256], batch=[65], ptr=[2])
+getting edges...
+Step 46:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[110, 3], edge_index=[2, 5995], edge_attr=[5995, 256], y=[1], node_attr=[110, 256], batch=[110], ptr=[2])
+getting edges...
+Step 47:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[72, 3], edge_index=[2, 2556], edge_attr=[2556, 256], y=[1], node_attr=[72, 256], batch=[72], ptr=[2])
+getting edges...
+Step 48:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[208, 3], edge_index=[2, 21528], edge_attr=[21528, 256], y=[1], node_attr=[208, 256], batch=[208], ptr=[2])
+getting edges...
+Step 49:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[128, 3], edge_index=[2, 8128], edge_attr=[8128, 256], y=[1], node_attr=[128, 256], batch=[128], ptr=[2])
+getting edges...
+Step 50:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[92, 3], edge_index=[2, 4186], edge_attr=[4186, 256], y=[1], node_attr=[92, 256], batch=[92], ptr=[2])
+getting edges...
+Step 51:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[199, 3], edge_index=[2, 19701], edge_attr=[19701, 256], y=[1], node_attr=[199, 256], batch=[199], ptr=[2])
+getting edges...
+Step 52:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[104, 3], edge_index=[2, 5356], edge_attr=[5356, 256], y=[1], node_attr=[104, 256], batch=[104], ptr=[2])
+getting edges...
+Step 53:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[101, 3], edge_index=[2, 5050], edge_attr=[5050, 256], y=[1], node_attr=[101, 256], batch=[101], ptr=[2])
+getting edges...
+Step 54:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[236, 3], edge_index=[2, 27730], edge_attr=[27730, 256], y=[1], node_attr=[236, 256], batch=[236], ptr=[2])
+getting edges...
+Step 55:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[101, 3], edge_index=[2, 5050], edge_attr=[5050, 256], y=[1], node_attr=[101, 256], batch=[101], ptr=[2])
+getting edges...
+Step 56:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[169, 3], edge_index=[2, 14196], edge_attr=[14196, 256], y=[1], node_attr=[169, 256], batch=[169], ptr=[2])
+getting edges...
+Step 57:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[235, 3], edge_index=[2, 27495], edge_attr=[27495, 256], y=[1], node_attr=[235, 256], batch=[235], ptr=[2])
+getting edges...
+Step 58:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[121, 3], edge_index=[2, 7260], edge_attr=[7260, 256], y=[1], node_attr=[121, 256], batch=[121], ptr=[2])
+getting edges...
+Step 59:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[47, 3], edge_index=[2, 1081], edge_attr=[1081, 256], y=[1], node_attr=[47, 256], batch=[47], ptr=[2])
+getting edges...
+Step 60:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[122, 3], edge_index=[2, 7381], edge_attr=[7381, 256], y=[1], node_attr=[122, 256], batch=[122], ptr=[2])
+getting edges...
+Step 61:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[78, 3], edge_index=[2, 3003], edge_attr=[3003, 256], y=[1], node_attr=[78, 256], batch=[78], ptr=[2])
+getting edges...
+Step 62:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[276, 3], edge_index=[2, 37950], edge_attr=[37950, 256], y=[1], node_attr=[276, 256], batch=[276], ptr=[2])
+getting edges...
+Step 63:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[77, 3], edge_index=[2, 2926], edge_attr=[2926, 256], y=[1], node_attr=[77, 256], batch=[77], ptr=[2])
+getting edges...
+Step 64:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[50, 3], edge_index=[2, 1225], edge_attr=[1225, 256], y=[1], node_attr=[50, 256], batch=[50], ptr=[2])
+getting edges...
+Step 65:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[159, 3], edge_index=[2, 12561], edge_attr=[12561, 256], y=[1], node_attr=[159, 256], batch=[159], ptr=[2])
+getting edges...
+Step 66:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[127, 3], edge_index=[2, 8001], edge_attr=[8001, 256], y=[1], node_attr=[127, 256], batch=[127], ptr=[2])
+getting edges...
+Step 67:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[137, 3], edge_index=[2, 9316], edge_attr=[9316, 256], y=[1], node_attr=[137, 256], batch=[137], ptr=[2])
+getting edges...
+Step 68:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[200, 3], edge_index=[2, 19900], edge_attr=[19900, 256], y=[1], node_attr=[200, 256], batch=[200], ptr=[2])
+getting edges...
+Step 69:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[259, 3], edge_index=[2, 33411], edge_attr=[33411, 256], y=[1], node_attr=[259, 256], batch=[259], ptr=[2])
+getting edges...
+Step 70:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[67, 3], edge_index=[2, 2211], edge_attr=[2211, 256], y=[1], node_attr=[67, 256], batch=[67], ptr=[2])
+getting edges...
+Step 71:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[79, 3], edge_index=[2, 3081], edge_attr=[3081, 256], y=[1], node_attr=[79, 256], batch=[79], ptr=[2])
+getting edges...
+Step 72:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[213, 3], edge_index=[2, 22578], edge_attr=[22578, 256], y=[1], node_attr=[213, 256], batch=[213], ptr=[2])
+getting edges...
+Step 73:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[336, 3], edge_index=[2, 56280], edge_attr=[56280, 256], y=[1], node_attr=[336, 256], batch=[336], ptr=[2])
+getting edges...
+Step 74:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[38, 3], edge_index=[2, 703], edge_attr=[703, 256], y=[1], node_attr=[38, 256], batch=[38], ptr=[2])
+getting edges...
+Step 75:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[54, 3], edge_index=[2, 1431], edge_attr=[1431, 256], y=[1], node_attr=[54, 256], batch=[54], ptr=[2])
+getting edges...
+Step 76:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[185, 3], edge_index=[2, 17020], edge_attr=[17020, 256], y=[1], node_attr=[185, 256], batch=[185], ptr=[2])
+getting edges...
+Step 77:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[168, 3], edge_index=[2, 14028], edge_attr=[14028, 256], y=[1], node_attr=[168, 256], batch=[168], ptr=[2])
+getting edges...
+Step 78:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[169, 3], edge_index=[2, 14196], edge_attr=[14196, 256], y=[1], node_attr=[169, 256], batch=[169], ptr=[2])
+getting edges...
+Step 79:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[202, 3], edge_index=[2, 20301], edge_attr=[20301, 256], y=[1], node_attr=[202, 256], batch=[202], ptr=[2])
+getting edges...
+Step 80:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[177, 3], edge_index=[2, 15576], edge_attr=[15576, 256], y=[1], node_attr=[177, 256], batch=[177], ptr=[2])
+getting edges...
+Step 81:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[145, 3], edge_index=[2, 10440], edge_attr=[10440, 256], y=[1], node_attr=[145, 256], batch=[145], ptr=[2])
+getting edges...
+Step 82:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[220, 3], edge_index=[2, 24090], edge_attr=[24090, 256], y=[1], node_attr=[220, 256], batch=[220], ptr=[2])
+getting edges...
+Step 83:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[471, 3], edge_index=[2, 110685], edge_attr=[110685, 256], y=[1], node_attr=[471, 256], batch=[471], ptr=[2])
+getting edges...
+Step 84:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[37, 3], edge_index=[2, 666], edge_attr=[666, 256], y=[1], node_attr=[37, 256], batch=[37], ptr=[2])
+getting edges...
+Step 85:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[236, 3], edge_index=[2, 27730], edge_attr=[27730, 256], y=[1], node_attr=[236, 256], batch=[236], ptr=[2])
+getting edges...
+Step 86:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[57, 3], edge_index=[2, 1596], edge_attr=[1596, 256], y=[1], node_attr=[57, 256], batch=[57], ptr=[2])
+getting edges...
+Step 87:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[100, 3], edge_index=[2, 4950], edge_attr=[4950, 256], y=[1], node_attr=[100, 256], batch=[100], ptr=[2])
+getting edges...
+Step 88:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[77, 3], edge_index=[2, 2926], edge_attr=[2926, 256], y=[1], node_attr=[77, 256], batch=[77], ptr=[2])
+getting edges...
+Step 89:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[225, 3], edge_index=[2, 25200], edge_attr=[25200, 256], y=[1], node_attr=[225, 256], batch=[225], ptr=[2])
+getting edges...
+Step 90:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[115, 3], edge_index=[2, 6555], edge_attr=[6555, 256], y=[1], node_attr=[115, 256], batch=[115], ptr=[2])
+getting edges...
+Step 91:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[254, 3], edge_index=[2, 32131], edge_attr=[32131, 256], y=[1], node_attr=[254, 256], batch=[254], ptr=[2])
+getting edges...
+Step 92:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[105, 3], edge_index=[2, 5460], edge_attr=[5460, 256], y=[1], node_attr=[105, 256], batch=[105], ptr=[2])
+getting edges...
+Step 93:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[86, 3], edge_index=[2, 3655], edge_attr=[3655, 256], y=[1], node_attr=[86, 256], batch=[86], ptr=[2])
+getting edges...
+Step 94:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[137, 3], edge_index=[2, 9316], edge_attr=[9316, 256], y=[1], node_attr=[137, 256], batch=[137], ptr=[2])
+getting edges...
+Step 95:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[106, 3], edge_index=[2, 5565], edge_attr=[5565, 256], y=[1], node_attr=[106, 256], batch=[106], ptr=[2])
+getting edges...
+Step 96:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[295, 3], edge_index=[2, 43365], edge_attr=[43365, 256], y=[1], node_attr=[295, 256], batch=[295], ptr=[2])
+getting edges...
+Step 97:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[60, 3], edge_index=[2, 1770], edge_attr=[1770, 256], y=[1], node_attr=[60, 256], batch=[60], ptr=[2])
+getting edges...
+Step 98:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[102, 3], edge_index=[2, 5151], edge_attr=[5151, 256], y=[1], node_attr=[102, 256], batch=[102], ptr=[2])
+getting edges...
+Step 99:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[47, 3], edge_index=[2, 1081], edge_attr=[1081, 256], y=[1], node_attr=[47, 256], batch=[47], ptr=[2])
+getting edges...
+Step 100:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[67, 3], edge_index=[2, 2211], edge_attr=[2211, 256], y=[1], node_attr=[67, 256], batch=[67], ptr=[2])
+getting edges...
+Step 101:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[264, 3], edge_index=[2, 34716], edge_attr=[34716, 256], y=[1], node_attr=[264, 256], batch=[264], ptr=[2])
+getting edges...
+Step 102:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[160, 3], edge_index=[2, 12720], edge_attr=[12720, 256], y=[1], node_attr=[160, 256], batch=[160], ptr=[2])
+getting edges...
+Step 103:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[115, 3], edge_index=[2, 6555], edge_attr=[6555, 256], y=[1], node_attr=[115, 256], batch=[115], ptr=[2])
+getting edges...
+Step 104:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[32, 3], edge_index=[2, 496], edge_attr=[496, 256], y=[1], node_attr=[32, 256], batch=[32], ptr=[2])
+getting edges...
+Step 105:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[91, 3], edge_index=[2, 4095], edge_attr=[4095, 256], y=[1], node_attr=[91, 256], batch=[91], ptr=[2])
+getting edges...
+Step 106:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[95, 3], edge_index=[2, 4465], edge_attr=[4465, 256], y=[1], node_attr=[95, 256], batch=[95], ptr=[2])
+getting edges...
+Step 107:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[118, 3], edge_index=[2, 6903], edge_attr=[6903, 256], y=[1], node_attr=[118, 256], batch=[118], ptr=[2])
+getting edges...
+Step 108:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[107, 3], edge_index=[2, 5671], edge_attr=[5671, 256], y=[1], node_attr=[107, 256], batch=[107], ptr=[2])
+getting edges...
+Step 109:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[134, 3], edge_index=[2, 8911], edge_attr=[8911, 256], y=[1], node_attr=[134, 256], batch=[134], ptr=[2])
+getting edges...
+Step 110:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[212, 3], edge_index=[2, 22366], edge_attr=[22366, 256], y=[1], node_attr=[212, 256], batch=[212], ptr=[2])
+getting edges...
+Step 111:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[125, 3], edge_index=[2, 7750], edge_attr=[7750, 256], y=[1], node_attr=[125, 256], batch=[125], ptr=[2])
+getting edges...
+Step 112:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[168, 3], edge_index=[2, 14028], edge_attr=[14028, 256], y=[1], node_attr=[168, 256], batch=[168], ptr=[2])
+getting edges...
+Step 113:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[240, 3], edge_index=[2, 28680], edge_attr=[28680, 256], y=[1], node_attr=[240, 256], batch=[240], ptr=[2])
+getting edges...
+Step 114:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[132, 3], edge_index=[2, 8646], edge_attr=[8646, 256], y=[1], node_attr=[132, 256], batch=[132], ptr=[2])
+getting edges...
+Step 115:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[167, 3], edge_index=[2, 13861], edge_attr=[13861, 256], y=[1], node_attr=[167, 256], batch=[167], ptr=[2])
+getting edges...
+Step 116:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[101, 3], edge_index=[2, 5050], edge_attr=[5050, 256], y=[1], node_attr=[101, 256], batch=[101], ptr=[2])
+getting edges...
+Step 117:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[233, 3], edge_index=[2, 27028], edge_attr=[27028, 256], y=[1], node_attr=[233, 256], batch=[233], ptr=[2])
+getting edges...
+Step 118:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[95, 3], edge_index=[2, 4465], edge_attr=[4465, 256], y=[1], node_attr=[95, 256], batch=[95], ptr=[2])
+getting edges...
+Step 119:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[64, 3], edge_index=[2, 2016], edge_attr=[2016, 256], y=[1], node_attr=[64, 256], batch=[64], ptr=[2])
+getting edges...
+Step 120:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[156, 3], edge_index=[2, 12090], edge_attr=[12090, 256], y=[1], node_attr=[156, 256], batch=[156], ptr=[2])
+getting edges...
+Step 121:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[78, 3], edge_index=[2, 3003], edge_attr=[3003, 256], y=[1], node_attr=[78, 256], batch=[78], ptr=[2])
+getting edges...
+Step 122:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[139, 3], edge_index=[2, 9591], edge_attr=[9591, 256], y=[1], node_attr=[139, 256], batch=[139], ptr=[2])
+getting edges...
+Step 123:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[219, 3], edge_index=[2, 23871], edge_attr=[23871, 256], y=[1], node_attr=[219, 256], batch=[219], ptr=[2])
+getting edges...
+Step 124:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[297, 3], edge_index=[2, 43956], edge_attr=[43956, 256], y=[1], node_attr=[297, 256], batch=[297], ptr=[2])
+getting edges...
+Step 125:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[151, 3], edge_index=[2, 11325], edge_attr=[11325, 256], y=[1], node_attr=[151, 256], batch=[151], ptr=[2])
+getting edges...
+Step 126:
+=======
+Number of graphs in the current batch: 1
+DataBatch(x=[390, 3], edge_index=[2, 75855], edge_attr=[75855, 256], y=[1], node_attr=[390, 256], batch=[390], ptr=[2])
+getting edges...
+Traceback (most recent call last):
+  File "main2.py", line 150, in <module>
+  File "/gpfs/scratch/rvinod/repos/code-prot2/egnn_clean.py", line 197, in get_edges_batch
+    edge_attr = get_edge_attrs(edges)
+  File "/gpfs/scratch/rvinod/repos/code-prot2/egnn_clean.py", line 186, in get_edge_attrs
+    edge_attr.append(embeddings.SinusoidalPositionEmbeddings(256).forward(elem).T)
+  File "/gpfs/scratch/rvinod/repos/code-prot2/data/embeddings.py", line 21, in forward
+    embeddings = torch.exp(torch.arange(half_dim, device=device) * -embeddings)
+KeyboardInterrupt
