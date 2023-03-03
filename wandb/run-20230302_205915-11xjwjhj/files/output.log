@@ -1,0 +1,14 @@
+
+getting edges...
+batched edges torch.Size([39600, 256])
+Traceback (most recent call last):
+  File "main.py", line 138, in <module>
+    loss, h = train(h, x, edges, edge_attr)
+  File "main.py", line 128, in train
+    loss.backward()
+  File "/users/rvinod/.local/lib/python3.7/site-packages/torch/_tensor.py", line 396, in backward
+    torch.autograd.backward(self, gradient, retain_graph, create_graph, inputs=inputs)
+  File "/users/rvinod/.local/lib/python3.7/site-packages/torch/autograd/__init__.py", line 175, in backward
+    allow_unreachable=True, accumulate_grad=True)  # Calls into the C++ engine to run the backward pass
+RuntimeError: Trying to backward through the graph a second time (or directly access saved tensors after they have already been freed). Saved intermediate values of the graph are freed when you call .backward() or autograd.grad(). Specify retain_graph=True if you need to backward through the graph a second time or if you need to access saved tensors after calling backward.
+Loss:  2.322370767593384

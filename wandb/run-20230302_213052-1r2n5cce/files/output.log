@@ -1,0 +1,61 @@
+
+getting edges...
+batched edges torch.Size([638400, 256])
+Loss:  8.821581840515137
+Loss:  2.145638711469057e+20
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Loss:  nan
+Traceback (most recent call last):
+  File "main.py", line 136, in <module>
+    loss, h = train(h, x, edges, edge_attr)
+  File "main.py", line 125, in train
+    loss.backward()
+  File "/users/rvinod/.local/lib/python3.7/site-packages/torch/_tensor.py", line 396, in backward
+    torch.autograd.backward(self, gradient, retain_graph, create_graph, inputs=inputs)
+  File "/users/rvinod/.local/lib/python3.7/site-packages/torch/autograd/__init__.py", line 175, in backward
+    allow_unreachable=True, accumulate_grad=True)  # Calls into the C++ engine to run the backward pass
+KeyboardInterrupt

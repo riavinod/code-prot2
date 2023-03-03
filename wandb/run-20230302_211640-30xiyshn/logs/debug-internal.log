@@ -1,0 +1,152 @@
+2023-03-02 21:16:40,413 INFO    StreamThr :129414 [internal.py:wandb_internal():91] W&B internal server running at pid: 129414, started at: 2023-03-02 21:16:40.412685
+2023-03-02 21:16:40,415 DEBUG   HandlerThread:129414 [handler.py:handle_request():138] handle_request: status
+2023-03-02 21:16:40,416 DEBUG   SenderThread:129414 [sender.py:send_request():315] send_request: status
+2023-03-02 21:16:40,418 DEBUG   SenderThread:129414 [sender.py:send():301] send: header
+2023-03-02 21:16:40,418 INFO    WriterThread:129414 [datastore.py:open_for_write():75] open: /gpfs/scratch/rvinod/repos/code-prot2/wandb/run-20230302_211640-30xiyshn/run-30xiyshn.wandb
+2023-03-02 21:16:40,432 DEBUG   SenderThread:129414 [sender.py:send():301] send: run
+2023-03-02 21:16:40,629 DEBUG   HandlerThread:129414 [handler.py:handle_request():138] handle_request: check_version
+2023-03-02 21:16:40,636 INFO    SenderThread:129414 [dir_watcher.py:__init__():216] watching files in: /gpfs/scratch/rvinod/repos/code-prot2/wandb/run-20230302_211640-30xiyshn/files
+2023-03-02 21:16:40,636 INFO    SenderThread:129414 [sender.py:_start_run_threads():915] run started: 30xiyshn with start time 1677809800.409377
+2023-03-02 21:16:40,636 DEBUG   SenderThread:129414 [sender.py:send():301] send: summary
+2023-03-02 21:16:40,636 INFO    SenderThread:129414 [sender.py:_save_file():1155] saving file wandb-summary.json with policy end
+2023-03-02 21:16:40,637 DEBUG   SenderThread:129414 [sender.py:send_request():315] send_request: check_version
+2023-03-02 21:16:40,681 DEBUG   HandlerThread:129414 [handler.py:handle_request():138] handle_request: run_start
+2023-03-02 21:16:40,687 DEBUG   HandlerThread:129414 [meta.py:__init__():34] meta init
+2023-03-02 21:16:40,687 DEBUG   HandlerThread:129414 [meta.py:__init__():49] meta init done
+2023-03-02 21:16:40,687 DEBUG   HandlerThread:129414 [meta.py:probe():215] probe
+2023-03-02 21:16:40,693 DEBUG   HandlerThread:129414 [meta.py:_setup_git():205] setup git
+2023-03-02 21:16:40,719 DEBUG   HandlerThread:129414 [meta.py:_setup_git():212] setup git done
+2023-03-02 21:16:40,719 DEBUG   HandlerThread:129414 [meta.py:_save_pip():53] save pip
+2023-03-02 21:16:40,720 DEBUG   HandlerThread:129414 [meta.py:_save_pip():67] save pip done
+2023-03-02 21:16:40,720 DEBUG   HandlerThread:129414 [meta.py:probe():253] probe done
+2023-03-02 21:16:40,723 DEBUG   SenderThread:129414 [sender.py:send():301] send: files
+2023-03-02 21:16:40,723 INFO    SenderThread:129414 [sender.py:_save_file():1155] saving file wandb-metadata.json with policy now
+2023-03-02 21:16:40,729 DEBUG   HandlerThread:129414 [handler.py:handle_request():138] handle_request: stop_status
+2023-03-02 21:16:40,730 DEBUG   SenderThread:129414 [sender.py:send_request():315] send_request: stop_status
+2023-03-02 21:16:40,810 DEBUG   SenderThread:129414 [sender.py:send():301] send: telemetry
+2023-03-02 21:16:41,076 INFO    Thread-17 :129414 [upload_job.py:push():139] Uploaded file /tmp/tmpwijjf8obwandb/2wf8svlw-wandb-metadata.json
+2023-03-02 21:16:41,637 INFO    Thread-13 :129414 [dir_watcher.py:_on_file_created():275] file/dir created: /gpfs/scratch/rvinod/repos/code-prot2/wandb/run-20230302_211640-30xiyshn/files/wandb-metadata.json
+2023-03-02 21:16:41,637 INFO    Thread-13 :129414 [dir_watcher.py:_on_file_created():275] file/dir created: /gpfs/scratch/rvinod/repos/code-prot2/wandb/run-20230302_211640-30xiyshn/files/requirements.txt
+2023-03-02 21:16:41,638 INFO    Thread-13 :129414 [dir_watcher.py:_on_file_created():275] file/dir created: /gpfs/scratch/rvinod/repos/code-prot2/wandb/run-20230302_211640-30xiyshn/files/wandb-summary.json
+2023-03-02 21:16:42,636 INFO    Thread-13 :129414 [dir_watcher.py:_on_file_created():275] file/dir created: /gpfs/scratch/rvinod/repos/code-prot2/wandb/run-20230302_211640-30xiyshn/files/output.log
+2023-03-02 21:16:44,637 INFO    Thread-13 :129414 [dir_watcher.py:_on_file_modified():292] file/dir modified: /gpfs/scratch/rvinod/repos/code-prot2/wandb/run-20230302_211640-30xiyshn/files/output.log
+2023-03-02 21:16:50,053 DEBUG   SenderThread:129414 [sender.py:send():301] send: exit
+2023-03-02 21:16:50,053 DEBUG   HandlerThread:129414 [handler.py:handle_request():138] handle_request: poll_exit
+2023-03-02 21:16:50,053 INFO    SenderThread:129414 [sender.py:send_exit():437] handling exit code: 1
+2023-03-02 21:16:50,053 INFO    SenderThread:129414 [sender.py:send_exit():439] handling runtime: 9
+2023-03-02 21:16:50,055 INFO    SenderThread:129414 [sender.py:_save_file():1155] saving file wandb-summary.json with policy end
+2023-03-02 21:16:50,055 INFO    SenderThread:129414 [sender.py:send_exit():445] send defer
+2023-03-02 21:16:50,056 DEBUG   SenderThread:129414 [sender.py:send_request():315] send_request: poll_exit
+2023-03-02 21:16:50,056 DEBUG   HandlerThread:129414 [handler.py:handle_request():138] handle_request: defer
+2023-03-02 21:16:50,056 INFO    HandlerThread:129414 [handler.py:handle_request_defer():161] handle defer: 0
+2023-03-02 21:16:50,056 DEBUG   SenderThread:129414 [sender.py:send_request():315] send_request: defer
+2023-03-02 21:16:50,056 INFO    SenderThread:129414 [sender.py:send_request_defer():454] handle sender defer: 0
+2023-03-02 21:16:50,056 INFO    SenderThread:129414 [sender.py:transition_state():458] send defer: 1
+2023-03-02 21:16:50,057 DEBUG   HandlerThread:129414 [handler.py:handle_request():138] handle_request: defer
+2023-03-02 21:16:50,057 INFO    HandlerThread:129414 [handler.py:handle_request_defer():161] handle defer: 1
+2023-03-02 21:16:50,106 DEBUG   SenderThread:129414 [sender.py:send_request():315] send_request: defer
+2023-03-02 21:16:50,106 INFO    SenderThread:129414 [sender.py:send_request_defer():454] handle sender defer: 1
+2023-03-02 21:16:50,106 INFO    SenderThread:129414 [sender.py:transition_state():458] send defer: 2
+2023-03-02 21:16:50,106 DEBUG   SenderThread:129414 [sender.py:send():301] send: stats
+2023-03-02 21:16:50,107 DEBUG   HandlerThread:129414 [handler.py:handle_request():138] handle_request: defer
+2023-03-02 21:16:50,107 INFO    HandlerThread:129414 [handler.py:handle_request_defer():161] handle defer: 2
+2023-03-02 21:16:50,107 DEBUG   SenderThread:129414 [sender.py:send_request():315] send_request: defer
+2023-03-02 21:16:50,107 INFO    SenderThread:129414 [sender.py:send_request_defer():454] handle sender defer: 2
+2023-03-02 21:16:50,107 INFO    SenderThread:129414 [sender.py:transition_state():458] send defer: 3
+2023-03-02 21:16:50,107 DEBUG   HandlerThread:129414 [handler.py:handle_request():138] handle_request: defer
+2023-03-02 21:16:50,107 INFO    HandlerThread:129414 [handler.py:handle_request_defer():161] handle defer: 3
+2023-03-02 21:16:50,107 DEBUG   SenderThread:129414 [sender.py:send_request():315] send_request: defer
+2023-03-02 21:16:50,107 INFO    SenderThread:129414 [sender.py:send_request_defer():454] handle sender defer: 3
+2023-03-02 21:16:50,107 INFO    SenderThread:129414 [sender.py:transition_state():458] send defer: 4
+2023-03-02 21:16:50,108 DEBUG   HandlerThread:129414 [handler.py:handle_request():138] handle_request: defer
+2023-03-02 21:16:50,108 INFO    HandlerThread:129414 [handler.py:handle_request_defer():161] handle defer: 4
+2023-03-02 21:16:50,108 DEBUG   SenderThread:129414 [sender.py:send():301] send: summary
+2023-03-02 21:16:50,108 INFO    SenderThread:129414 [sender.py:_save_file():1155] saving file wandb-summary.json with policy end
+2023-03-02 21:16:50,108 DEBUG   SenderThread:129414 [sender.py:send_request():315] send_request: defer
+2023-03-02 21:16:50,108 INFO    SenderThread:129414 [sender.py:send_request_defer():454] handle sender defer: 4
+2023-03-02 21:16:50,108 INFO    SenderThread:129414 [sender.py:transition_state():458] send defer: 5
+2023-03-02 21:16:50,108 DEBUG   HandlerThread:129414 [handler.py:handle_request():138] handle_request: defer
+2023-03-02 21:16:50,108 INFO    HandlerThread:129414 [handler.py:handle_request_defer():161] handle defer: 5
+2023-03-02 21:16:50,108 DEBUG   SenderThread:129414 [sender.py:send_request():315] send_request: defer
+2023-03-02 21:16:50,109 INFO    SenderThread:129414 [sender.py:send_request_defer():454] handle sender defer: 5
+2023-03-02 21:16:50,157 DEBUG   HandlerThread:129414 [handler.py:handle_request():138] handle_request: poll_exit
+2023-03-02 21:16:50,239 INFO    SenderThread:129414 [sender.py:transition_state():458] send defer: 6
+2023-03-02 21:16:50,239 DEBUG   SenderThread:129414 [sender.py:send_request():315] send_request: poll_exit
+2023-03-02 21:16:50,240 DEBUG   HandlerThread:129414 [handler.py:handle_request():138] handle_request: defer
+2023-03-02 21:16:50,240 INFO    HandlerThread:129414 [handler.py:handle_request_defer():161] handle defer: 6
+2023-03-02 21:16:50,240 DEBUG   SenderThread:129414 [sender.py:send_request():315] send_request: defer
+2023-03-02 21:16:50,240 INFO    SenderThread:129414 [sender.py:send_request_defer():454] handle sender defer: 6
+2023-03-02 21:16:50,341 DEBUG   HandlerThread:129414 [handler.py:handle_request():138] handle_request: poll_exit
+2023-03-02 21:16:50,641 INFO    Thread-13 :129414 [dir_watcher.py:_on_file_modified():292] file/dir modified: /gpfs/scratch/rvinod/repos/code-prot2/wandb/run-20230302_211640-30xiyshn/files/output.log
+2023-03-02 21:16:50,641 INFO    Thread-13 :129414 [dir_watcher.py:_on_file_modified():292] file/dir modified: /gpfs/scratch/rvinod/repos/code-prot2/wandb/run-20230302_211640-30xiyshn/files/config.yaml
+2023-03-02 21:16:50,641 INFO    Thread-13 :129414 [dir_watcher.py:_on_file_modified():292] file/dir modified: /gpfs/scratch/rvinod/repos/code-prot2/wandb/run-20230302_211640-30xiyshn/files/wandb-summary.json
+2023-03-02 21:16:52,058 INFO    SenderThread:129414 [sender.py:transition_state():458] send defer: 7
+2023-03-02 21:16:52,058 DEBUG   SenderThread:129414 [sender.py:send_request():315] send_request: poll_exit
+2023-03-02 21:16:52,059 DEBUG   HandlerThread:129414 [handler.py:handle_request():138] handle_request: defer
+2023-03-02 21:16:52,059 INFO    HandlerThread:129414 [handler.py:handle_request_defer():161] handle defer: 7
+2023-03-02 21:16:52,059 DEBUG   SenderThread:129414 [sender.py:send_request():315] send_request: defer
+2023-03-02 21:16:52,059 INFO    SenderThread:129414 [sender.py:send_request_defer():454] handle sender defer: 7
+2023-03-02 21:16:52,059 INFO    SenderThread:129414 [dir_watcher.py:finish():362] shutting down directory watcher
+2023-03-02 21:16:52,160 DEBUG   HandlerThread:129414 [handler.py:handle_request():138] handle_request: poll_exit
+2023-03-02 21:16:52,643 INFO    Thread-13 :129414 [dir_watcher.py:_on_file_modified():292] file/dir modified: /gpfs/scratch/rvinod/repos/code-prot2/wandb/run-20230302_211640-30xiyshn/files/output.log
+2023-03-02 21:16:52,643 INFO    SenderThread:129414 [dir_watcher.py:finish():392] scan: /gpfs/scratch/rvinod/repos/code-prot2/wandb/run-20230302_211640-30xiyshn/files
+2023-03-02 21:16:52,643 INFO    SenderThread:129414 [dir_watcher.py:finish():406] scan save: /gpfs/scratch/rvinod/repos/code-prot2/wandb/run-20230302_211640-30xiyshn/files/wandb-metadata.json wandb-metadata.json
+2023-03-02 21:16:52,643 INFO    SenderThread:129414 [dir_watcher.py:finish():406] scan save: /gpfs/scratch/rvinod/repos/code-prot2/wandb/run-20230302_211640-30xiyshn/files/config.yaml config.yaml
+2023-03-02 21:16:52,644 INFO    SenderThread:129414 [dir_watcher.py:finish():406] scan save: /gpfs/scratch/rvinod/repos/code-prot2/wandb/run-20230302_211640-30xiyshn/files/requirements.txt requirements.txt
+2023-03-02 21:16:52,647 INFO    SenderThread:129414 [dir_watcher.py:finish():406] scan save: /gpfs/scratch/rvinod/repos/code-prot2/wandb/run-20230302_211640-30xiyshn/files/wandb-summary.json wandb-summary.json
+2023-03-02 21:16:52,651 INFO    SenderThread:129414 [dir_watcher.py:finish():406] scan save: /gpfs/scratch/rvinod/repos/code-prot2/wandb/run-20230302_211640-30xiyshn/files/output.log output.log
+2023-03-02 21:16:52,654 INFO    SenderThread:129414 [sender.py:transition_state():458] send defer: 8
+2023-03-02 21:16:52,654 DEBUG   SenderThread:129414 [sender.py:send_request():315] send_request: poll_exit
+2023-03-02 21:16:52,655 DEBUG   HandlerThread:129414 [handler.py:handle_request():138] handle_request: defer
+2023-03-02 21:16:52,659 INFO    HandlerThread:129414 [handler.py:handle_request_defer():161] handle defer: 8
+2023-03-02 21:16:52,659 DEBUG   SenderThread:129414 [sender.py:send_request():315] send_request: defer
+2023-03-02 21:16:52,659 INFO    SenderThread:129414 [sender.py:send_request_defer():454] handle sender defer: 8
+2023-03-02 21:16:52,660 INFO    SenderThread:129414 [file_pusher.py:finish():168] shutting down file pusher
+2023-03-02 21:16:52,759 DEBUG   HandlerThread:129414 [handler.py:handle_request():138] handle_request: poll_exit
+2023-03-02 21:16:52,760 DEBUG   SenderThread:129414 [sender.py:send_request():315] send_request: poll_exit
+2023-03-02 21:16:52,860 DEBUG   HandlerThread:129414 [handler.py:handle_request():138] handle_request: poll_exit
+2023-03-02 21:16:52,860 DEBUG   SenderThread:129414 [sender.py:send_request():315] send_request: poll_exit
+2023-03-02 21:16:52,961 DEBUG   HandlerThread:129414 [handler.py:handle_request():138] handle_request: poll_exit
+2023-03-02 21:16:52,961 DEBUG   SenderThread:129414 [sender.py:send_request():315] send_request: poll_exit
+2023-03-02 21:16:52,990 INFO    Thread-19 :129414 [upload_job.py:push():139] Uploaded file /gpfs/scratch/rvinod/repos/code-prot2/wandb/run-20230302_211640-30xiyshn/files/requirements.txt
+2023-03-02 21:16:53,003 INFO    Thread-20 :129414 [upload_job.py:push():139] Uploaded file /gpfs/scratch/rvinod/repos/code-prot2/wandb/run-20230302_211640-30xiyshn/files/wandb-summary.json
+2023-03-02 21:16:53,007 INFO    Thread-21 :129414 [upload_job.py:push():139] Uploaded file /gpfs/scratch/rvinod/repos/code-prot2/wandb/run-20230302_211640-30xiyshn/files/output.log
+2023-03-02 21:16:53,062 DEBUG   HandlerThread:129414 [handler.py:handle_request():138] handle_request: poll_exit
+2023-03-02 21:16:53,062 DEBUG   SenderThread:129414 [sender.py:send_request():315] send_request: poll_exit
+2023-03-02 21:16:53,066 INFO    Thread-18 :129414 [upload_job.py:push():139] Uploaded file /gpfs/scratch/rvinod/repos/code-prot2/wandb/run-20230302_211640-30xiyshn/files/config.yaml
+2023-03-02 21:16:53,163 DEBUG   HandlerThread:129414 [handler.py:handle_request():138] handle_request: poll_exit
+2023-03-02 21:16:53,163 DEBUG   SenderThread:129414 [sender.py:send_request():315] send_request: poll_exit
+2023-03-02 21:16:53,264 DEBUG   HandlerThread:129414 [handler.py:handle_request():138] handle_request: poll_exit
+2023-03-02 21:16:53,264 DEBUG   SenderThread:129414 [sender.py:send_request():315] send_request: poll_exit
+2023-03-02 21:16:53,266 INFO    Thread-12 :129414 [sender.py:transition_state():458] send defer: 9
+2023-03-02 21:16:53,266 DEBUG   HandlerThread:129414 [handler.py:handle_request():138] handle_request: defer
+2023-03-02 21:16:53,266 INFO    HandlerThread:129414 [handler.py:handle_request_defer():161] handle defer: 9
+2023-03-02 21:16:53,267 DEBUG   SenderThread:129414 [sender.py:send_request():315] send_request: defer
+2023-03-02 21:16:53,267 INFO    SenderThread:129414 [sender.py:send_request_defer():454] handle sender defer: 9
+2023-03-02 21:16:53,343 INFO    SenderThread:129414 [sender.py:transition_state():458] send defer: 10
+2023-03-02 21:16:53,344 DEBUG   HandlerThread:129414 [handler.py:handle_request():138] handle_request: defer
+2023-03-02 21:16:53,344 INFO    HandlerThread:129414 [handler.py:handle_request_defer():161] handle defer: 10
+2023-03-02 21:16:53,344 DEBUG   SenderThread:129414 [sender.py:send_request():315] send_request: defer
+2023-03-02 21:16:53,344 INFO    SenderThread:129414 [sender.py:send_request_defer():454] handle sender defer: 10
+2023-03-02 21:16:53,344 INFO    SenderThread:129414 [sender.py:transition_state():458] send defer: 11
+2023-03-02 21:16:53,344 DEBUG   HandlerThread:129414 [handler.py:handle_request():138] handle_request: defer
+2023-03-02 21:16:53,344 DEBUG   SenderThread:129414 [sender.py:send():301] send: final
+2023-03-02 21:16:53,344 INFO    HandlerThread:129414 [handler.py:handle_request_defer():161] handle defer: 11
+2023-03-02 21:16:53,344 DEBUG   SenderThread:129414 [sender.py:send():301] send: footer
+2023-03-02 21:16:53,345 DEBUG   SenderThread:129414 [sender.py:send_request():315] send_request: defer
+2023-03-02 21:16:53,345 INFO    SenderThread:129414 [sender.py:send_request_defer():454] handle sender defer: 11
+2023-03-02 21:16:53,365 DEBUG   HandlerThread:129414 [handler.py:handle_request():138] handle_request: poll_exit
+2023-03-02 21:16:53,365 DEBUG   SenderThread:129414 [sender.py:send_request():315] send_request: poll_exit
+2023-03-02 21:16:53,365 INFO    SenderThread:129414 [file_pusher.py:join():173] waiting for file pusher
+2023-03-02 21:16:53,613 DEBUG   HandlerThread:129414 [handler.py:handle_request():138] handle_request: sampled_history
+2023-03-02 21:16:53,614 DEBUG   HandlerThread:129414 [handler.py:handle_request():138] handle_request: get_summary
+2023-03-02 21:16:53,614 INFO    MainThread:129414 [wandb_run.py:_footer_history_summary_info():3321] rendering history
+2023-03-02 21:16:53,614 INFO    MainThread:129414 [wandb_run.py:_footer_history_summary_info():3353] rendering summary
+2023-03-02 21:16:53,614 INFO    MainThread:129414 [wandb_run.py:_footer_sync_info():3277] logging synced files
+2023-03-02 21:16:53,614 DEBUG   HandlerThread:129414 [handler.py:handle_request():138] handle_request: shutdown
+2023-03-02 21:16:53,614 INFO    HandlerThread:129414 [handler.py:finish():807] shutting down handler
+2023-03-02 21:16:54,345 INFO    WriterThread:129414 [datastore.py:close():279] close: /gpfs/scratch/rvinod/repos/code-prot2/wandb/run-20230302_211640-30xiyshn/run-30xiyshn.wandb
+2023-03-02 21:16:54,515 INFO    SenderThread:129414 [sender.py:finish():1315] shutting down sender
+2023-03-02 21:16:54,515 INFO    SenderThread:129414 [file_pusher.py:finish():168] shutting down file pusher
+2023-03-02 21:16:54,515 INFO    SenderThread:129414 [file_pusher.py:join():173] waiting for file pusher
+2023-03-02 21:16:54,617 INFO    MainThread:129414 [internal.py:handle_exit():78] Internal process exited

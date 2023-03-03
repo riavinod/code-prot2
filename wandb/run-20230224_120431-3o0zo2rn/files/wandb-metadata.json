@@ -1,0 +1,24 @@
+{
+    "os": "Linux-3.10.0-1160.76.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo",
+    "python": "3.7.4",
+    "heartbeatAt": "2023-02-24T17:04:32.128014",
+    "startedAt": "2023-02-24T17:04:31.795445",
+    "docker": null,
+    "gpu": "Quadro RTX 6000",
+    "gpu_count": 1,
+    "cpu_count": 32,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "model.py",
+    "codePath": "model.py",
+    "git": {
+        "remote": "git@github.com:riavinod/code-prot2.git",
+        "commit": "1167a7dd0d16b89dc0dd9817a51d39403d286dfe"
+    },
+    "email": null,
+    "root": "/gpfs/scratch/rvinod/repos/code-prot2",
+    "host": "gpu2004.oscar.ccv.brown.edu",
+    "username": "rvinod",
+    "executable": "/gpfs/runtime/opt/python/3.7.4/bin/python3"
+}

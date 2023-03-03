@@ -1,0 +1,11 @@
+
+getting edges...
+batched edges torch.Size([39600, 256])
+Shape of x:  torch.Size([400, 3])
+Shape of node attrs:  torch.Size([400, 256])
+Shape of edges:  torch.Size([2, 39600])
+Shape of edge attrs:  torch.Size([39600, 256])
+Traceback (most recent call last):
+  File "main.py", line 141, in <module>
+    loss, h = train(h, x, edges, edge_attr)
+TypeError: cannot unpack non-iterable NoneType object

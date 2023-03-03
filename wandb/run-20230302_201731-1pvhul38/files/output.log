@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "main.py", line 62, in <module>
+    model = egnn.EGNN(in_node_nf=256, out_node_nf=256, in_edge_nf=256, hidden_nf=args.nf, device=device, n_layers=4, coords_weight=1.0)
+TypeError: __init__() got an unexpected keyword argument 'out_node_nf'

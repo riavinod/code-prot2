@@ -1,0 +1,402 @@
+
+cuda:0
+Number of graphs in the current batch: 128
+Loss:  1.9972343444824219
+Number of graphs in the current batch: 72
+Loss:  1.875177264213562
+Number of graphs in the current batch: 128
+Loss:  1.3536016941070557
+Number of graphs in the current batch: 72
+Loss:  1.4173569679260254
+Number of graphs in the current batch: 128
+Loss:  1.0179957151412964
+Number of graphs in the current batch: 72
+Loss:  1.0090810060501099
+Number of graphs in the current batch: 128
+Loss:  0.872076690196991
+Number of graphs in the current batch: 72
+Loss:  0.8155642747879028
+Number of graphs in the current batch: 128
+Loss:  0.8065752387046814
+Number of graphs in the current batch: 72
+Loss:  0.7336336970329285
+Number of graphs in the current batch: 128
+Loss:  0.7686462998390198
+Number of graphs in the current batch: 72
+Loss:  0.7040550708770752
+Number of graphs in the current batch: 128
+Loss:  0.7428569793701172
+Number of graphs in the current batch: 72
+Loss:  0.6907328963279724
+Number of graphs in the current batch: 128
+Loss:  0.7245019674301147
+Number of graphs in the current batch: 72
+Loss:  0.6830654144287109
+Number of graphs in the current batch: 128
+Loss:  0.7127895355224609
+Number of graphs in the current batch: 72
+Loss:  0.6760263442993164
+Number of graphs in the current batch: 128
+Loss:  0.7045313715934753
+Number of graphs in the current batch: 72
+Loss:  0.6699789762496948
+Number of graphs in the current batch: 128
+Loss:  0.6973695158958435
+Number of graphs in the current batch: 72
+Loss:  0.6654888391494751
+Number of graphs in the current batch: 128
+Loss:  0.6914710402488708
+Number of graphs in the current batch: 72
+Loss:  0.6617032885551453
+Number of graphs in the current batch: 128
+Loss:  0.6862081289291382
+Number of graphs in the current batch: 72
+Loss:  0.6588102579116821
+Number of graphs in the current batch: 128
+Loss:  0.6812009811401367
+Number of graphs in the current batch: 72
+Loss:  0.6567915678024292
+Number of graphs in the current batch: 128
+Loss:  0.6764511466026306
+Number of graphs in the current batch: 72
+Loss:  0.6553321480751038
+Number of graphs in the current batch: 128
+Loss:  0.6719263792037964
+Number of graphs in the current batch: 72
+Loss:  0.6542217135429382
+Number of graphs in the current batch: 128
+Loss:  0.6675044894218445
+Number of graphs in the current batch: 72
+Loss:  0.6533935070037842
+Number of graphs in the current batch: 128
+Loss:  0.6630533337593079
+Number of graphs in the current batch: 72
+Loss:  0.652851402759552
+Number of graphs in the current batch: 128
+Loss:  0.6585887670516968
+Number of graphs in the current batch: 72
+Loss:  0.6524946093559265
+Number of graphs in the current batch: 128
+Loss:  0.6543963551521301
+Number of graphs in the current batch: 72
+Loss:  0.6519888043403625
+Number of graphs in the current batch: 128
+Loss:  0.6508631706237793
+Number of graphs in the current batch: 72
+Loss:  0.6509705781936646
+Number of graphs in the current batch: 128
+Loss:  0.6482290029525757
+Number of graphs in the current batch: 72
+Loss:  0.6492854952812195
+Number of graphs in the current batch: 128
+Loss:  0.6464371085166931
+Number of graphs in the current batch: 72
+Loss:  0.6470747590065002
+Number of graphs in the current batch: 128
+Loss:  0.6451922059059143
+Number of graphs in the current batch: 72
+Loss:  0.6446617245674133
+Number of graphs in the current batch: 128
+Loss:  0.6442052125930786
+Number of graphs in the current batch: 72
+Loss:  0.6423056125640869
+Number of graphs in the current batch: 128
+Loss:  0.6433077454566956
+Number of graphs in the current batch: 72
+Loss:  0.6401111483573914
+Number of graphs in the current batch: 128
+Loss:  0.6423899531364441
+Number of graphs in the current batch: 72
+Loss:  0.6381000280380249
+Number of graphs in the current batch: 128
+Loss:  0.6413177847862244
+Number of graphs in the current batch: 72
+Loss:  0.6363143920898438
+Number of graphs in the current batch: 128
+Loss:  0.640034556388855
+Number of graphs in the current batch: 72
+Loss:  0.6347311735153198
+Number of graphs in the current batch: 128
+Loss:  0.6387338042259216
+Number of graphs in the current batch: 72
+Loss:  0.6331268548965454
+Number of graphs in the current batch: 128
+Loss:  0.6375511884689331
+Number of graphs in the current batch: 72
+Loss:  0.6313968896865845
+Number of graphs in the current batch: 128
+Loss:  0.6364893317222595
+Number of graphs in the current batch: 72
+Loss:  0.6295796036720276
+Number of graphs in the current batch: 128
+Loss:  0.6354954242706299
+Number of graphs in the current batch: 72
+Loss:  0.6277543306350708
+Number of graphs in the current batch: 128
+Loss:  0.6345095634460449
+Number of graphs in the current batch: 72
+Loss:  0.6259870529174805
+Number of graphs in the current batch: 128
+Loss:  0.6334952116012573
+Number of graphs in the current batch: 72
+Loss:  0.6243136525154114
+Number of graphs in the current batch: 128
+Loss:  0.6324453949928284
+Number of graphs in the current batch: 72
+Loss:  0.622740626335144
+Number of graphs in the current batch: 128
+Loss:  0.6313790082931519
+Number of graphs in the current batch: 72
+Loss:  0.6212480664253235
+Number of graphs in the current batch: 128
+Loss:  0.630325198173523
+Number of graphs in the current batch: 72
+Loss:  0.6198051571846008
+Number of graphs in the current batch: 128
+Loss:  0.6292980313301086
+Number of graphs in the current batch: 72
+Loss:  0.6183923482894897
+Number of graphs in the current batch: 128
+Loss:  0.6283003687858582
+Number of graphs in the current batch: 72
+Loss:  0.6169934272766113
+Number of graphs in the current batch: 128
+Loss:  0.6273360252380371
+Number of graphs in the current batch: 72
+Loss:  0.6155760288238525
+Number of graphs in the current batch: 128
+Loss:  0.6264126896858215
+Number of graphs in the current batch: 72
+Loss:  0.614080548286438
+Number of graphs in the current batch: 128
+Loss:  0.6255369186401367
+Number of graphs in the current batch: 72
+Loss:  0.6124137043952942
+Number of graphs in the current batch: 128
+Loss:  0.6247077584266663
+Number of graphs in the current batch: 72
+Loss:  0.6104336380958557
+Number of graphs in the current batch: 128
+Loss:  0.6238893866539001
+Number of graphs in the current batch: 72
+Loss:  0.6079707741737366
+Number of graphs in the current batch: 128
+Loss:  0.6228244304656982
+Number of graphs in the current batch: 72
+Loss:  0.6051451563835144
+Number of graphs in the current batch: 128
+Loss:  0.6208124160766602
+Number of graphs in the current batch: 72
+Loss:  0.6028688549995422
+Number of graphs in the current batch: 128
+Loss:  0.6185029149055481
+Number of graphs in the current batch: 72
+Loss:  0.6008161902427673
+Number of graphs in the current batch: 128
+Loss:  0.6173874735832214
+Number of graphs in the current batch: 72
+Loss:  0.5977773666381836
+Number of graphs in the current batch: 128
+Loss:  0.6168555021286011
+Number of graphs in the current batch: 72
+Loss:  0.5945777893066406
+Number of graphs in the current batch: 128
+Loss:  0.6155490279197693
+Number of graphs in the current batch: 72
+Loss:  0.592681348323822
+Number of graphs in the current batch: 128
+Loss:  0.6137041449546814
+Number of graphs in the current batch: 72
+Loss:  0.5917258262634277
+Number of graphs in the current batch: 128
+Loss:  0.6120790243148804
+Number of graphs in the current batch: 72
+Loss:  0.5908346176147461
+Number of graphs in the current batch: 128
+Loss:  0.6107751727104187
+Number of graphs in the current batch: 72
+Loss:  0.589854896068573
+Number of graphs in the current batch: 128
+Loss:  0.6096416711807251
+Number of graphs in the current batch: 72
+Loss:  0.5888897180557251
+Number of graphs in the current batch: 128
+Loss:  0.6086243987083435
+Number of graphs in the current batch: 72
+Loss:  0.5879562497138977
+Number of graphs in the current batch: 128
+Loss:  0.6077187657356262
+Number of graphs in the current batch: 72
+Loss:  0.5870367288589478
+Number of graphs in the current batch: 128
+Loss:  0.6068952083587646
+Number of graphs in the current batch: 72
+Loss:  0.5861433744430542
+Number of graphs in the current batch: 128
+Loss:  0.6061221361160278
+Number of graphs in the current batch: 72
+Loss:  0.5852927565574646
+Number of graphs in the current batch: 128
+Loss:  0.6053726673126221
+Number of graphs in the current batch: 72
+Loss:  0.5844969749450684
+Number of graphs in the current batch: 128
+Loss:  0.604631781578064
+Number of graphs in the current batch: 72
+Loss:  0.5837558507919312
+Number of graphs in the current batch: 128
+Loss:  0.6039310097694397
+Number of graphs in the current batch: 72
+Loss:  0.5830200910568237
+Number of graphs in the current batch: 128
+Loss:  0.6034001708030701
+Number of graphs in the current batch: 72
+Loss:  0.5821502208709717
+Number of graphs in the current batch: 128
+Loss:  0.6031250357627869
+Number of graphs in the current batch: 72
+Loss:  0.5810760855674744
+Number of graphs in the current batch: 128
+Loss:  0.6028924584388733
+Number of graphs in the current batch: 72
+Loss:  0.5800278782844543
+Number of graphs in the current batch: 128
+Loss:  0.6025812029838562
+Number of graphs in the current batch: 72
+Loss:  0.5791143774986267
+Number of graphs in the current batch: 128
+Loss:  0.6022774577140808
+Number of graphs in the current batch: 72
+Loss:  0.5782458186149597
+Number of graphs in the current batch: 128
+Loss:  0.6019906401634216
+Number of graphs in the current batch: 72
+Loss:  0.5774132609367371
+Number of graphs in the current batch: 128
+Loss:  0.6017132997512817
+Number of graphs in the current batch: 72
+Loss:  0.5766176581382751
+Number of graphs in the current batch: 128
+Loss:  0.6014497876167297
+Number of graphs in the current batch: 72
+Loss:  0.575851321220398
+Number of graphs in the current batch: 128
+Loss:  0.6012022495269775
+Number of graphs in the current batch: 72
+Loss:  0.5751076340675354
+Number of graphs in the current batch: 128
+Loss:  0.600974440574646
+Number of graphs in the current batch: 72
+Loss:  0.5743799805641174
+Number of graphs in the current batch: 128
+Loss:  0.6007675528526306
+Number of graphs in the current batch: 72
+Loss:  0.5736637115478516
+Number of graphs in the current batch: 128
+Loss:  0.6005840301513672
+Number of graphs in the current batch: 72
+Loss:  0.572953999042511
+Number of graphs in the current batch: 128
+Loss:  0.6004254817962646
+Number of graphs in the current batch: 72
+Loss:  0.5722472667694092
+Number of graphs in the current batch: 128
+Loss:  0.6002911329269409
+Number of graphs in the current batch: 72
+Loss:  0.5715430974960327
+Number of graphs in the current batch: 128
+Loss:  0.6001735329627991
+Number of graphs in the current batch: 72
+Loss:  0.5708497166633606
+Number of graphs in the current batch: 128
+Loss:  0.6000523567199707
+Number of graphs in the current batch: 72
+Loss:  0.5701874494552612
+Number of graphs in the current batch: 128
+Loss:  0.5998935699462891
+Number of graphs in the current batch: 72
+Loss:  0.56959068775177
+Number of graphs in the current batch: 128
+Loss:  0.5996671915054321
+Number of graphs in the current batch: 72
+Loss:  0.5690840482711792
+Number of graphs in the current batch: 128
+Loss:  0.5993795990943909
+Number of graphs in the current batch: 72
+Loss:  0.5686531662940979
+Number of graphs in the current batch: 128
+Loss:  0.5990668535232544
+Number of graphs in the current batch: 72
+Loss:  0.5682570934295654
+Number of graphs in the current batch: 128
+Loss:  0.5987572073936462
+Number of graphs in the current batch: 72
+Loss:  0.567866861820221
+Number of graphs in the current batch: 128
+Loss:  0.5984575748443604
+Number of graphs in the current batch: 72
+Loss:  0.5674770474433899
+Number of graphs in the current batch: 128
+Loss:  0.5981659889221191
+Number of graphs in the current batch: 72
+Loss:  0.5670902132987976
+Number of graphs in the current batch: 128
+Loss:  0.5978807806968689
+Number of graphs in the current batch: 72
+Loss:  0.5667089819908142
+Number of graphs in the current batch: 128
+Loss:  0.5976004004478455
+Number of graphs in the current batch: 72
+Loss:  0.5663352012634277
+Number of graphs in the current batch: 128
+Loss:  0.597324788570404
+Number of graphs in the current batch: 72
+Loss:  0.565968930721283
+Number of graphs in the current batch: 128
+Loss:  0.5970539450645447
+Number of graphs in the current batch: 72
+Loss:  0.5656105279922485
+Number of graphs in the current batch: 128
+Loss:  0.596787691116333
+Number of graphs in the current batch: 72
+Loss:  0.5652591586112976
+Number of graphs in the current batch: 128
+Loss:  0.5965263247489929
+Number of graphs in the current batch: 72
+Loss:  0.5649145841598511
+Number of graphs in the current batch: 128
+Loss:  0.5962705612182617
+Number of graphs in the current batch: 72
+Loss:  0.5645754337310791
+Number of graphs in the current batch: 128
+Loss:  0.5960199236869812
+Number of graphs in the current batch: 72
+Loss:  0.5642419457435608
+Number of graphs in the current batch: 128
+Loss:  0.5957744121551514
+Number of graphs in the current batch: 72
+Loss:  0.563913106918335
+Number of graphs in the current batch: 128
+Loss:  0.5955341458320618
+Number of graphs in the current batch: 72
+Loss:  0.5635882019996643
+Number of graphs in the current batch: 128
+Loss:  0.5952988862991333
+Number of graphs in the current batch: 72
+Loss:  0.5632667541503906
+Number of graphs in the current batch: 128
+Loss:  0.5950682759284973
+Number of graphs in the current batch: 72
+Loss:  0.5629478096961975
+Number of graphs in the current batch: 128
+Loss:  0.5948421955108643
+Number of graphs in the current batch: 72
+Loss:  0.5626309514045715
+Number of graphs in the current batch: 128
+Loss:  0.5946202278137207
+Number of graphs in the current batch: 72
+Loss:  0.5623154044151306
+Number of graphs in the current batch: 128
+Loss:  0.5944018959999084
+Number of graphs in the current batch: 72
+Loss:  0.5620003342628479

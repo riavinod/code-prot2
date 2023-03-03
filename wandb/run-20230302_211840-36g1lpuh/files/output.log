@@ -1,0 +1,16 @@
+
+getting edges...
+Traceback (most recent call last):
+  File "main.py", line 83, in <module>
+    edges, edge_attr = egnn_clean.get_edges_batch(n_nodes, batch_size)
+  File "/gpfs/scratch/rvinod/repos/code-prot2/egnn_clean.py", line 207, in get_edges_batch
+    edge_attr = get_edge_attrs(edges)
+  File "/gpfs/scratch/rvinod/repos/code-prot2/egnn_clean.py", line 186, in get_edge_attrs
+    edge_attr.append(embeddings.SinusoidalPositionEmbeddings(256).forward(elem).T)
+  File "/gpfs/scratch/rvinod/repos/code-prot2/data/embeddings.py", line 13, in __init__
+    super().__init__()
+  File "/users/rvinod/.local/lib/python3.7/site-packages/torch/nn/modules/module.py", line 271, in __init__
+    self._modules: Dict[str, Optional['Module']] = OrderedDict()
+  File "/users/rvinod/.local/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1255, in __setattr__
+    object.__setattr__(self, name, value)
+KeyboardInterrupt

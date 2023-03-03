@@ -1,0 +1,38 @@
+
+cpu
+Number of graphs in the current batch: 256
+Loss:  0.36100947856903076
+Number of graphs in the current batch: 256
+Loss:  -0.10334671288728714
+Number of graphs in the current batch: 256
+Loss:  -0.17713628709316254
+Number of graphs in the current batch: 256
+Loss:  0.29286232590675354
+Traceback (most recent call last):
+  File "simple_gcn.py", line 89, in <module>
+    loss, h = train(data)
+  File "simple_gcn.py", line 57, in train
+    out, h = model(data.x, data.edge_index)  # Perform a single forward pass.
+  File "/users/rvinod/.local/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1130, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "simple_gcn.py", line 42, in forward
+    h = self.conv1(x, edge_index)
+  File "/users/rvinod/.local/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1130, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/users/rvinod/.local/lib/python3.7/site-packages/torch_geometric/nn/conv/gcn_conv.py", line 199, in forward
+    size=None)
+  File "/users/rvinod/.local/lib/python3.7/site-packages/torch_geometric/nn/conv/message_passing.py", line 454, in propagate
+    out = self.aggregate(out, **aggr_kwargs)
+  File "/users/rvinod/.local/lib/python3.7/site-packages/torch_geometric/nn/conv/message_passing.py", line 579, in aggregate
+    dim=self.node_dim)
+  File "/users/rvinod/.local/lib/python3.7/site-packages/torch_geometric/nn/aggr/base.py", line 131, in __call__
+    return super().__call__(x, index, ptr, dim_size, dim, **kwargs)
+  File "/users/rvinod/.local/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1130, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/users/rvinod/.local/lib/python3.7/site-packages/torch_geometric/nn/aggr/basic.py", line 21, in forward
+    return self.reduce(x, index, ptr, dim_size, dim, reduce='sum')
+  File "/users/rvinod/.local/lib/python3.7/site-packages/torch_geometric/nn/aggr/base.py", line 170, in reduce
+    return scatter(x, index, dim, dim_size, reduce)
+  File "/users/rvinod/.local/lib/python3.7/site-packages/torch_geometric/utils/scatter.py", line 54, in scatter
+    return src.new_zeros(size).scatter_add_(dim, index, src)
+KeyboardInterrupt
