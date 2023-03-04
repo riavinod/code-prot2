@@ -17,6 +17,8 @@ import json
 import urllib.request
 import urllib.parse
 
+import embeddings
+
 
 import shutil
 import os
@@ -106,9 +108,52 @@ def url_cath(url):
     # Catching the exception generated     
     except Exception as e :
         print(str(e))
-        return torch.tensor(0)
+        return torch.tensor(5)
     
-    return torch.tensor(int(json.loads(x.decode('utf-8'))['data']['s35_id'].split('.')[0]))
+
+    label = int(json.loads(x.decode('utf-8'))['data']['s35_id'].split('.')[0])
+    if label == 6:
+        label = 5
+    return torch.tensor(label - 1)
+
+def get_edges(n_nodes):
+    rows, cols = [], []
+    for i in range(n_nodes):
+        for j in range(n_nodes):
+            if i != j:
+                rows.append(i)
+                cols.append(j)
+
+    edges = [rows, cols]
+    return edges
+
+def get_edge_attrs(edges):
+    edge_attr = []
+    for i in range(len(edges[0])):
+        elem = torch.tensor([edges[1][i] - edges[0][i]])
+        edge_attr.append(embeddings.SinusoidalPositionEmbeddings(256).forward(elem).T)
+
+    edge_attr = torch.cat(edge_attr).reshape(-1, 256)
+    return edge_attr
+
+def get_edges_batch(n_nodes, batch_size):
+    print('getting edges...')
+    edges = get_edges(n_nodes)
+    #edge_attr = torch.ones(len(edges[0]) * batch_size, 256)
+    edge_attr = get_edge_attrs(edges)
+    edges = [torch.LongTensor(edges[0]), torch.LongTensor(edges[1])]
+    if batch_size == 1:
+        return edges, edge_attr
+    elif batch_size > 1:
+        rows, cols = [], []
+        for i in range(batch_size):
+            rows.append(edges[0] + n_nodes * i)
+            cols.append(edges[1] + n_nodes * i)
+        edges = [torch.cat(rows), torch.cat(cols)]
+        edge_attr = get_edge_attrs(edges)
+    
+    print('batched edges', edge_attr.shape)
+    return edges, edge_attr
 
 
 

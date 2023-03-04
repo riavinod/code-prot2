@@ -94,20 +94,6 @@ class StructureData(Dataset):
                 node_attrs.append(h)
             node_attrs = torch.cat(node_attrs).reshape(-1, 256)
 
-        
-            # # get edge indices and features
-            # rows, cols = [], []
-            # edge_attr = []
-            # for batch_idx in range(1):
-            #     for i in range(num_nodes):
-            #         for j in range(num_nodes):
-            #             rows.append(i + 1 * num_nodes)
-            #             cols.append(j + 1 * num_nodes)
-            #             elem = torch.tensor([i-j])
-            #             edge_attr.append(embeddings.SinusoidalPositionEmbeddings(D).forward(elem).T)
-            
-            # edges = torch.tensor([rows, cols])
-            # edges 2.0
             rows, cols = [], []
             edges = []
             for i in range(num_nodes):
@@ -115,15 +101,23 @@ class StructureData(Dataset):
                     if i!=j:
                         edges.append([i, j])
             
-            # edge_attr 2.0
-            edge_attr = []
-            for e in edges:
-                elem = torch.tensor([e[1] - e[0]])
-                edge_attr.append(embeddings.SinusoidalPositionEmbeddings(D).forward(elem).T)
+            # # edge_attr 2.0
+            # edge_attr = []
+            # for e in edges:
+            #     elem = torch.tensor([e[1] - e[0]])
+            #     edge_attr.append(embeddings.SinusoidalPositionEmbeddings(D).forward(elem).T)
 
-            edges = torch.tensor(edges).T
+            # edges = torch.tensor(edges).T
 
-            edge_attr = torch.cat(edge_attr).reshape(-1, D)
+            # edge_attr = torch.cat(edge_attr).reshape(-1, D)
+
+
+
+            # edges, edge_attr to work with egnn
+
+            edges, edge_attr = utils.get_edges_batch(num_nodes, 1)
+
+            edges = torch.cat([edges[0], edges[1]]).reshape(2, -1)
 
 
             # save a data object
@@ -142,10 +136,10 @@ class StructureData(Dataset):
         return data
 
 
-# url = 'http://download.cathdb.info/cath/releases/all-releases/v4_3_0/non-redundant-data-sets/cath-dataset-nonredundant-S40-v4_3_0.pdb.tgz'
-# root = '/users/rvinod/data/rvinod/code-prot-geometric/structures'
+url = 'http://download.cathdb.info/cath/releases/all-releases/v4_3_0/non-redundant-data-sets/cath-dataset-nonredundant-S40-v4_3_0.pdb.tgz'
+root = '/users/rvinod/data/rvinod/code-prot-geometric/structures'
 
-# dataset = StructureData(root)
+dataset = StructureData(root)
 # print(dataset)
 # print('loading...')
 

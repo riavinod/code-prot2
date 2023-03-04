@@ -1,0 +1,22 @@
+{
+    "os": "Linux-3.10.0-1160.76.1.el7.x86_64-x86_64-with-redhat-7.9-Maipo",
+    "python": "3.7.4",
+    "heartbeatAt": "2023-03-03T21:57:09.739049",
+    "startedAt": "2023-03-03T21:57:09.418401",
+    "docker": null,
+    "cpu_count": 24,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "main3.py",
+    "codePath": "main3.py",
+    "git": {
+        "remote": "git@github.com:riavinod/code-prot2.git",
+        "commit": "15000691bb2bd7c80687cec16225a79a71597c68"
+    },
+    "email": null,
+    "root": "/gpfs/scratch/rvinod/repos/code-prot2",
+    "host": "login005",
+    "username": "rvinod",
+    "executable": "/gpfs/runtime/opt/python/3.7.4/bin/python3"
+}

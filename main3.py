@@ -78,14 +78,14 @@ class MLP(torch.nn.Module):
         return h
     
 
-wandb.init(project="egnn-geom", name='batch-1')
+wandb.init(project="egnn-geom", name='full-batch')
 
 
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
 
 # Initialize EGNN
-egnn = egnn_clean.EGNN(in_node_nf=256, out_node_nf = 256, hidden_nf=128, in_edge_nf=256, device='cuda:0')
+egnn = egnn_clean.EGNN(in_node_nf=256, out_node_nf = 256, hidden_nf=128, in_edge_nf=256, device=device)
 
 
 
@@ -117,9 +117,9 @@ def train(h, x, y, batch, edges, edge_attr):
 
     # pred = pred.argmax(dim=1)  # Use the class with highest probability.
 
-    print('**** final')  
-    print('pred shape', pred.shape)
-    print('y shape', y.shape)
+    # print('**** final')  
+    # print('pred shape', pred.shape)
+    # print('y shape', y.shape)
 
     loss = criterion(pred, y)
 
@@ -133,15 +133,15 @@ def train(h, x, y, batch, edges, edge_attr):
 
 
 # PyG dataloader 
-batch_size = 16
+batch_size = 128
 root = '/users/rvinod/data/rvinod/code-prot-geometric/structures'
 dataset = struct_dataloader.StructureData(root)
-paths = dataset.processed_paths[:1000]
+paths = dataset.processed_paths[:1800]
 data_list = [torch.load(pt) for pt in paths]
 loader = DataLoader(data_list, batch_size=batch_size)
 
 
-for epoch in range(1000):
+for epoch in range(2):
 
     for step, data in enumerate(loader):
         print(f'Step {step + 1}:')
@@ -152,27 +152,31 @@ for epoch in range(1000):
         h = data.node_attr.to(device) #torch.ones(batch_size * n_nodes, n_feat)
         x = data.x.to(device) #torch.ones(batch_size * n_nodes, x_dim)
         y_adjusted = torch.full((batch_size, ), 1)
-        y = (data.y - y_adjusted).to(device)
+        y = data.y.to(device)
+        edges = data.edge_index.to(device)
+        edge_attr = data.edge_attr.to(device)
 
         n_nodes = x.shape[0]
         batch = data.batch.to(device)
 
         print('batch', batch.shape)
-        print(batch)
+        # print(batch)
 
 
 
-        edges, edge_attr = egnn_clean.get_edges_batch(n_nodes, batch_size)
+        # edges, edge_attr = egnn_clean.get_edges_batch(n_nodes, batch_size)
 
-        edges = torch.cat([edges[0], edges[1]]).reshape(2, -1).to(device)
-        edge_attr = edge_attr.to(device)
+        # edges = torch.cat([edges[0], edges[1]]).reshape(2, -1).to(device)
+        # edge_attr = edge_attr.to(device)
 
-        print('*** DATA ***')
-        print('x', x.shape)
-        print('h', h.shape)
-        print('edges', edges.shape)
-        print('edge_attr', edge_attr.shape)
-        print('************')
+
+
+        # print('*** DATA ***')
+        # print('x', x.shape)
+        # print('h', h.shape)
+        # print('edges', edges.shape)
+        # print('edge_attr', edge_attr.shape)
+        # print('************')
 
 
         loss, h = train(h, x, y, batch, edges, edge_attr)
@@ -182,4 +186,3 @@ for epoch in range(1000):
             wandb.log({'loss': loss.item()})
 
 
-# Currently im not able to run batches > 1. this is because when i get batched edges they treat it as the whole graph and so the num nodes < num edges
